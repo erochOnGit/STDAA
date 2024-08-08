@@ -143,11 +143,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+  "active": "566ee743b031431c",
   "active": "a5af74ae448fb0cf",
   "lastOpenFiles": [
+    "Excalidraw/Test 1.md",
+    "Excalidraw",
     "STDAA COURS.md",
     "2nd/1 - Les fondamentaux du Dessin/Critères - Fondamentaux.pdf",
     "2nd/1 - Les fondamentaux du Dessin/C - Couleurs/Doc ressource - Couleur ton valeur.pdf",
@@ -158,7 +162,6 @@
     "2nd/2 - La brique LEGO/Sujet - Restitution Sketchnoting analyse LEGO.pdf",
     "2nd/2 - La brique LEGO/Critères - Sketchnoting Lego.pdf",
     "2nd/2 - La brique LEGO/A4 Questionnaire pour Documentaire.pdf",
-    "2nd/2 - La brique LEGO/A3 Questionnaire pour Documentaire Correction.pdf",
     "2nd/1 - Les fondamentaux du Dessin/Liens Tuto Origami/origami girafe.JPG"
   ]
 }
