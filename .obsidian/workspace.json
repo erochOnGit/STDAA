@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff38918704c5e8c9",
+        "id": "2093495754380ba3",
         "type": "tabs",
         "children": [
           {
-            "id": "566ee743b031431c",
+            "id": "a5af74ae448fb0cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ab586091752f069",
+  "active": "a5af74ae448fb0cf",
   "lastOpenFiles": [
+    "STDAA COURS.md",
     "2nd/1 - Les fondamentaux du Dessin/Critères - Fondamentaux.pdf",
     "2nd/1 - Les fondamentaux du Dessin/C - Couleurs/Doc ressource - Couleur ton valeur.pdf",
     "2nd/1 - Les fondamentaux du Dessin/C - Couleurs/A imprimer cercle chromatique.pdf",
@@ -158,8 +159,6 @@
     "2nd/2 - La brique LEGO/Critères - Sketchnoting Lego.pdf",
     "2nd/2 - La brique LEGO/A4 Questionnaire pour Documentaire.pdf",
     "2nd/2 - La brique LEGO/A3 Questionnaire pour Documentaire Correction.pdf",
-    "2nd/2 - La brique LEGO",
-    "2nd/1 - Les fondamentaux du Dessin/Liens Tuto Origami/origami girafe.JPG",
-    "STDAA COURS.md"
+    "2nd/1 - Les fondamentaux du Dessin/Liens Tuto Origami/origami girafe.JPG"
   ]
 }
