@@ -6,16 +6,32 @@
       {
         "id": "2093495754380ba3",
         "type": "tabs",
+        "dimension": 31.916243654822335,
         "children": [
           {
             "id": "a5af74ae448fb0cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "STDAA COURS.md",
-                "mode": "source",
-                "source": false
+                "file": "2nd/0 - Introduction - Début d_année/1- Quizz de rentrée.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6079b2c88fe61175",
+        "type": "tabs",
+        "dimension": 68.08375634517766,
+        "children": [
+          {
+            "id": "239d8fa960a6e556",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Test 1.md"
               }
             }
           }
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STDAA COURS.md",
+                "file": "Excalidraw/Test 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STDAA COURS.md",
+                "file": "Excalidraw/Test 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STDAA COURS.md"
+                "file": "Excalidraw/Test 1.md"
               }
             }
           }
@@ -147,17 +163,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "566ee743b031431c",
-  "active": "a5af74ae448fb0cf",
+  "active": "239d8fa960a6e556",
   "lastOpenFiles": [
+    "2nd/0 - Introduction - Début d_année/1- Quizz de rentrée.pdf",
     "Excalidraw/Test 1.md",
-    "Excalidraw",
     "STDAA COURS.md",
+    "Excalidraw",
     "2nd/1 - Les fondamentaux du Dessin/Critères - Fondamentaux.pdf",
     "2nd/1 - Les fondamentaux du Dessin/C - Couleurs/Doc ressource - Couleur ton valeur.pdf",
     "2nd/1 - Les fondamentaux du Dessin/C - Couleurs/A imprimer cercle chromatique.pdf",
     "2nd/1 - Les fondamentaux du Dessin/D - Composition/Fondamentaux composition.pdf",
-    "2nd/0 - Introduction - Début d_année/1- Quizz de rentrée.pdf",
     "2nd/Programme d’enseignement optionnel de CCD.pdf",
     "2nd/2 - La brique LEGO/Sujet - Restitution Sketchnoting analyse LEGO.pdf",
     "2nd/2 - La brique LEGO/Critères - Sketchnoting Lego.pdf",
