@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "ff38918704c5e8c9",
+        "id": "d591b18220393c2f",
         "type": "tabs",
         "children": [
           {
-            "id": "566ee743b031431c",
+            "id": "db81302f5ac865ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "sketching.md"
+              }
+            }
+          },
+          {
+            "id": "ecf37e1f9e890eb5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0 Tml/Tml overview.md"
+              }
+            }
+          },
+          {
+            "id": "fe496ad6162f5999",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1ere/1ere overview.md"
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sketching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sketching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sketching.md"
+              }
             }
           }
         ]
@@ -139,22 +165,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "566ee743b031431c",
+  "active": "db81302f5ac865ca",
   "lastOpenFiles": [
-    "Excalidraw/Test 1.md",
     "timeline.md",
-    "2nd/Excalidraw/Test 1.md",
-    "2nd/Excalidraw",
-    "STDAA COURS.md",
-    "Excalidraw",
-    "2nd/1 - Les fondamentaux du Dessin/Critères - Fondamentaux.pdf",
-    "2nd/1 - Les fondamentaux du Dessin/C - Couleurs/Doc ressource - Couleur ton valeur.pdf",
-    "2nd/1 - Les fondamentaux du Dessin/C - Couleurs/A imprimer cercle chromatique.pdf",
-    "2nd/1 - Les fondamentaux du Dessin/D - Composition/Fondamentaux composition.pdf",
-    "2nd/0 - Introduction - Début d_année/1- Quizz de rentrée.pdf",
+    "1ere/1ere overview.md",
+    "0 Tml/Tml overview.md",
+    "2nd/2nd overview.md",
+    "sketching.md",
+    "skteching",
+    "1ere/Excalidraw",
+    "1ere",
     "2nd/Programme d’enseignement optionnel de CCD.pdf",
-    "2nd/2 - La brique LEGO/Sujet - Restitution Sketchnoting analyse LEGO.pdf",
-    "2nd/2 - La brique LEGO/Critères - Sketchnoting Lego.pdf",
+    "STDAA COURS.md",
+    "0 Tml/Copie de Exercice Mannequin.pdf",
+    "0 Tml/Excalidraw",
+    "0 Tml/Copie de exo 2 découpage narratif.pdf",
+    "0 Tml/Copie de exo 1 athlète recto-verso.pdf",
+    "0 Tml/Projet BD.docx",
+    "0 Tml/PAV 1STD2A BD diapo.pptx",
+    "Excalidraw/Test 1.md",
     "2nd/1 - Les fondamentaux du Dessin/Liens Tuto Origami/origami girafe.JPG"
   ]
 }
