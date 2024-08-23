@@ -8,22 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db81302f5ac865ca",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "sketching.md"
-              }
-            }
-          },
-          {
             "id": "ecf37e1f9e890eb5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "0 Tml/Tml overview.md"
+                "file": "sketching/sketching.md"
+              }
+            }
+          },
+          {
+            "id": "98fc0e9614d72056",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "sketching/sketching.md"
+              }
+            }
+          },
+          {
+            "id": "7324284e98721289",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "sketching/sketching.md"
               }
             }
           },
@@ -37,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "948ca0492e0d734e",
@@ -103,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sketching.md",
+                "file": "1ere/1ere overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sketching.md",
+                "file": "1ere/1ere overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sketching.md"
+                "file": "1ere/1ere overview.md"
               }
             }
           }
@@ -165,24 +176,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db81302f5ac865ca",
+  "active": "fe496ad6162f5999",
   "lastOpenFiles": [
-    "timeline.md",
-    "1ere/1ere overview.md",
     "0 Tml/Tml overview.md",
+    "sketching/sketching.md",
+    "1ere/1ere overview.md",
+    "projet pedagogique.md",
+    "Projet pédagogique 1.odt",
+    "Projet pédagogique.odt",
+    "sketching/sketching 2.md",
+    "sketching",
+    "STDAA COURS.md",
+    "2nd/0 - Introduction - Début d_année/2- Le design qu_est-ce que c_est + Arbre du design.pdf",
+    "timeline.md",
     "2nd/2nd overview.md",
-    "sketching.md",
     "skteching",
     "1ere/Excalidraw",
     "1ere",
     "2nd/Programme d’enseignement optionnel de CCD.pdf",
-    "STDAA COURS.md",
     "0 Tml/Copie de Exercice Mannequin.pdf",
     "0 Tml/Excalidraw",
-    "0 Tml/Copie de exo 2 découpage narratif.pdf",
-    "0 Tml/Copie de exo 1 athlète recto-verso.pdf",
-    "0 Tml/Projet BD.docx",
-    "0 Tml/PAV 1STD2A BD diapo.pptx",
     "Excalidraw/Test 1.md",
     "2nd/1 - Les fondamentaux du Dessin/Liens Tuto Origami/origami girafe.JPG"
   ]
