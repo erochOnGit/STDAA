@@ -46,9 +46,29 @@
                 "file": "1ere/1ere overview.md"
               }
             }
+          },
+          {
+            "id": "44505ca813e468f1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "OLN/Drawing 2024-08-23 15.56.59.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "7b7875618b6291dc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1ere/1ere overview.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1ere/1ere overview.md",
+                "file": "OLN/Drawing 2024-08-23 15.56.59.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1ere/1ere overview.md",
+                "file": "OLN/Drawing 2024-08-23 15.56.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1ere/1ere overview.md"
+                "file": "OLN/Drawing 2024-08-23 15.56.59.excalidraw.md"
               }
             }
           }
@@ -176,26 +196,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe496ad6162f5999",
+  "active": "44505ca813e468f1",
   "lastOpenFiles": [
-    "0 Tml/Tml overview.md",
     "sketching/sketching.md",
+    "Document sans titre.pdf",
+    "Document sans titre 1.pdf",
+    "1ere/Dessin didactique.pdf",
+    "1ere/fiche perspective linéaire.pdf",
     "1ere/1ere overview.md",
+    "OLN/Drawing 2024-08-23 15.56.59.excalidraw.md",
+    "OLN/Excalidraw",
+    "OLN",
+    "sketching/sketching 2.md",
+    "1ere/spe643_annexe1_1063858.pdf",
+    "1ere/Initiation au dessin - Diapo.pdf",
+    "1ere/sequence 1.md",
+    "Pasted Image 20240823143358_974.png",
+    "0 Tml/Tml overview.md",
+    "timeline.md",
     "projet pedagogique.md",
     "Projet pédagogique 1.odt",
     "Projet pédagogique.odt",
-    "sketching/sketching 2.md",
-    "sketching",
     "STDAA COURS.md",
-    "2nd/0 - Introduction - Début d_année/2- Le design qu_est-ce que c_est + Arbre du design.pdf",
-    "timeline.md",
     "2nd/2nd overview.md",
-    "skteching",
-    "1ere/Excalidraw",
-    "1ere",
-    "2nd/Programme d’enseignement optionnel de CCD.pdf",
-    "0 Tml/Copie de Exercice Mannequin.pdf",
-    "0 Tml/Excalidraw",
     "Excalidraw/Test 1.md",
     "2nd/1 - Les fondamentaux du Dessin/Liens Tuto Origami/origami girafe.JPG"
   ]
