@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "sketching/sketching.md"
+                "file": "2nd/2nd overview.md"
               }
             }
           },
@@ -41,34 +41,15 @@
             "id": "fe496ad6162f5999",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "1ere/1ere overview.md"
-              }
-            }
-          },
-          {
-            "id": "44505ca813e468f1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "OLN/Drawing 2024-08-23 15.56.59.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "7b7875618b6291dc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1ere/1ere overview.md"
+                "file": "OLN/projet peda.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OLN/Drawing 2024-08-23 15.56.59.excalidraw.md",
+                "file": "2nd/2nd overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OLN/Drawing 2024-08-23 15.56.59.excalidraw.md",
+                "file": "2nd/2nd overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OLN/Drawing 2024-08-23 15.56.59.excalidraw.md"
+                "file": "2nd/2nd overview.md"
               }
             }
           }
@@ -196,28 +177,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44505ca813e468f1",
+  "active": "ecf37e1f9e890eb5",
   "lastOpenFiles": [
-    "sketching/sketching.md",
-    "Document sans titre.pdf",
-    "Document sans titre 1.pdf",
-    "1ere/Dessin didactique.pdf",
-    "1ere/fiche perspective linéaire.pdf",
+    "OLN/OLN Overview.md",
+    "OLN/dossier-affinity.pdf",
     "1ere/1ere overview.md",
-    "OLN/Drawing 2024-08-23 15.56.59.excalidraw.md",
-    "OLN/Excalidraw",
-    "OLN",
-    "sketching/sketching 2.md",
-    "1ere/spe643_annexe1_1063858.pdf",
-    "1ere/Initiation au dessin - Diapo.pdf",
-    "1ere/sequence 1.md",
+    "1ere/progression PAV.png",
+    "1ere/progression PAV 2.png",
+    "1ere/Dessin didactique.pdf",
+    "OLN/progression.png",
+    "OLN/Suite numérique.png",
+    "OLN/projet peda.md",
+    "sketching/sketching.md",
+    "Première-STD2A-Programme-Outils-et-langages-numeriques_0.pdf",
+    "OLN/Première-STD2A-Programme-Outils-et-langages-numeriques_0.pdf",
     "Pasted Image 20240823143358_974.png",
+    "OLN",
+    "Document sans titre.pdf",
+    "1ere/spe643_annexe1_1063858.pdf",
+    "1ere/sequence 1.md",
+    "1ere/fiche perspective linéaire.pdf",
+    "1ere/Initiation au dessin - Diapo.pdf",
     "0 Tml/Tml overview.md",
-    "timeline.md",
     "projet pedagogique.md",
     "Projet pédagogique 1.odt",
-    "Projet pédagogique.odt",
+    "sketching/sketching 2.md",
     "STDAA COURS.md",
+    "timeline.md",
     "2nd/2nd overview.md",
     "Excalidraw/Test 1.md",
     "2nd/1 - Les fondamentaux du Dessin/Liens Tuto Origami/origami girafe.JPG"
