@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a1912f6277cb099e",
+        "id": "ff87af75cb286f1e",
         "type": "tabs",
         "children": [
           {
-            "id": "88335a417a3e89e6",
+            "id": "335277929ee5ea82",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,10 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "88335a417a3e89e6",
+  "active": "335277929ee5ea82",
   "lastOpenFiles": [
-    "OLN/progression.png",
+    "sketching/image.md",
     "OLN/README.md",
+    "sketching/prototype.jpeg",
+    "OLN/progression.png",
     "pavlovplus.png",
     "Programme.md",
     "2nd/Pasted Image 20240826132744_965.png",
@@ -165,7 +167,6 @@
     "Pasted Image 20240826145342_737.png",
     "OLN/OLN Overview.md",
     "1ere/1ere overview.md",
-    "sketching/WhatsApp Image 2024-07-16 at 16.06.34 (2).jpeg",
     "2nd/Programme d’enseignement optionnel de CCD.pdf",
     "2nd/projet pedagogique.md",
     "OLN/Première-STD2A-Programme-Outils-et-langages-numeriques_0.pdf",
