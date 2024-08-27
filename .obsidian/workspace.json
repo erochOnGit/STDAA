@@ -43,9 +43,11 @@
             "id": "58a8a42c82d8da76",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "sketching/sketch timeline.md"
+                "file": "sketching/README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sketching/sketch timeline.md",
+                "file": "sketching/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sketching/sketch timeline.md",
+                "file": "sketching/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sketching/sketch timeline.md"
+                "file": "sketching/README.md"
               }
             }
           }
@@ -180,12 +182,13 @@
   },
   "active": "58a8a42c82d8da76",
   "lastOpenFiles": [
+    "Pasted image 20240827170503.png",
+    "sketching/sketch timeline.md",
     "OLN/OLN Overview.md",
     "2nd/2nd overview.md",
     "sketching/README.md",
     "1ere/1ere overview.md",
     "sketching/sketching 2.md",
-    "sketching/sketch timeline.md",
     "sketching/sketching.md",
     "Excalidraw/aaaa 1.md",
     "Excalidraw/aaaa.md",
