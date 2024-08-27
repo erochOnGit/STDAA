@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d591b18220393c2f",
+        "id": "a1912f6277cb099e",
         "type": "tabs",
         "children": [
           {
-            "id": "ecf37e1f9e890eb5",
+            "id": "88335a417a3e89e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,10 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ab586091752f069",
+  "active": "88335a417a3e89e6",
   "lastOpenFiles": [
     "OLN/progression.png",
     "OLN/README.md",
+    "pavlovplus.png",
+    "Programme.md",
     "2nd/Pasted Image 20240826132744_965.png",
     "OLN/projet peda.md",
     "sketching/sketching.md",
@@ -161,7 +163,6 @@
     "sketching/prototype2.jpeg",
     "sketching/WhatsApp Image 2024-07-16 at 02.18.19.jpeg",
     "Pasted Image 20240826145342_737.png",
-    "Pasted Image 20240823143358_974.png",
     "OLN/OLN Overview.md",
     "1ere/1ere overview.md",
     "sketching/WhatsApp Image 2024-07-16 at 16.06.34 (2).jpeg",
