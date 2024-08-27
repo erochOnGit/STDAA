@@ -1,5 +1,3 @@
 # Page de garde de OLN 
-
-![progression.png](./progression.png)
-
-![Suite numérique.png](./Suite_numérique.png)
+![Image](OLN/progression.png)
+![Image](OLN/Suite_numérique.png)
