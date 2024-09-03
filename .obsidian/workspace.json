@@ -8,48 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecf37e1f9e890eb5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "sketching/sketch timeline.md"
-              }
-            }
-          },
-          {
             "id": "98fc0e9614d72056",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "sketching/sketching.md"
+                "file": "OLN/fiche miro p1.svg"
               }
             }
           },
           {
-            "id": "7324284e98721289",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "sketching/sketching.md"
-              }
-            }
-          },
-          {
-            "id": "fe496ad6162f5999",
+            "id": "fcfb74ab235bcf8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OLN/projet peda.md",
+                "file": "OLN/Fiche carto numérique.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 327.5
   },
   "right": {
     "id": "948ca0492e0d734e",
@@ -115,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sketching/sketch timeline.md",
+                "file": "OLN/Fiche carto numérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sketching/sketch timeline.md",
+                "file": "OLN/Fiche carto numérique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sketching/sketch timeline.md"
+                "file": "OLN/Fiche carto numérique.md"
               }
             }
           }
@@ -174,48 +155,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecf37e1f9e890eb5",
+  "active": "fcfb74ab235bcf8b",
   "lastOpenFiles": [
+    "OLN/fiche carto num p1.svg",
+    "OLN/OLN Overview.md",
+    "OLN/Fiche carto numérique.md",
+    "OLN/Fiche carto numérique.pdf",
+    "OLN/fiche Carto numérique.svg",
+    "Excalidraw/cropped_cropped_dessin.md",
+    "Excalidraw/cropped_dessin.md",
+    "OLN/dessin.svg",
+    "OLN/fiche miro p1.svg",
+    "OLN/Carto.svg",
+    "OLN/Fiche Miro.md",
+    "Excalidraw/cropped_Pasted Image 20240903212924_465.md",
+    "OLN/fiche miro p2.svg",
+    "OLN/fiche miro p23.svg",
+    "OLN/Fiche miro.svg",
+    "OLN/Fiche Miro.pdf",
+    "OLN/toto.svg",
+    "Excalidraw/cropped_cropped_Pasted image 20240903220721.md",
+    "Excalidraw/cropped_Pasted image 20240903220721.md",
+    "Pasted Image 20240903234138_161.png",
+    "OLN/projet peda.md",
+    "Excalidraw/cropped_Pasted Image 20240903220815_856.md",
+    "OLN/Première-STD2A-Programme-Outils-et-langages-numeriques_0.pdf",
+    "sketching/sketching.md",
+    "Excalidraw/cropped_cropped_Pasted Image 20240903215301_152.md",
+    "Excalidraw/cropped_Pasted Image 20240903215301_152.md",
+    "Excalidraw/cropped_Pasted Image 20240903215230_159.md",
+    "Excalidraw",
+    "OLN/dossier-affinity.pdf",
+    "1ere/Dessin didactique.pdf",
+    "OLN/OLN Overview.sync-conflict-20240903-203214-XQLPSAN.md",
+    "OLN/~syncthing~OLN Overview.sync-conflict-20240903-203214-XQLPSAN.md.tmp",
+    "OLN/OLN Overview.sync-conflict-20240903-203134-XQLPSAN.md",
+    "OLN/~syncthing~OLN Overview.sync-conflict-20240903-203134-XQLPSAN.md.tmp",
+    "sketching/sketch timeline.md",
+    "OLN/~syncthing~OLN Overview.md.tmp",
+    "~syncthing~Pasted Image 20240903203014_436.jpg.tmp",
     "0 Tml/Tml overview.md",
     "2nd/2nd overview.md",
-    "sketching/sketch timeline.md",
-    "sketching/prototype3.jpeg",
-    "sketching/prototype2.jpeg",
-    "sketching/prototype.jpeg",
-    "sketching/image.png",
-    "sketching/image (2).png",
-    "sketching/image (1).png",
-    "sketching/WhatsApp Image 2024-07-16 at 02.18.19.jpeg",
     "sketching/README.md",
-    "pavlovplus.png",
     "README.md",
     "Programme.md",
-    "Pasted image 20240827170503.png",
-    "Pasted image 20240827162616.png",
     "OLN/README.md",
     "2nd/projet pedagogique.md",
-    "OLN/OLN Overview.md",
-    "OLN/dossier-affinity.pdf",
-    "1ere/1ere overview.md",
-    "1ere/Dessin didactique.pdf",
-    "OLN/projet peda.md",
-    "sketching/sketching.md",
-    "Première-STD2A-Programme-Outils-et-langages-numeriques_0.pdf",
-    "OLN/Première-STD2A-Programme-Outils-et-langages-numeriques_0.pdf",
-    "OLN",
-    "Document sans titre.pdf",
-    "1ere/spe643_annexe1_1063858.pdf",
-    "1ere/sequence 1.md",
-    "1ere/fiche perspective linéaire.pdf",
-    "1ere/Initiation au dessin - Diapo.pdf",
-    "projet pedagogique.md",
-    "Projet pédagogique 1.odt",
-    "sketching/sketching 2.md",
-    "STDAA COURS.md",
-    "timeline.md",
-    "Excalidraw/Test 1.md"
+    "1ere/1ere overview.md"
   ]
 }
