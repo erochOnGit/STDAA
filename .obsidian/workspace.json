@@ -4,51 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d591b18220393c2f",
+        "id": "da6bbee6a7145123",
         "type": "tabs",
         "children": [
           {
-            "id": "98fc0e9614d72056",
+            "id": "56a967671b2d61ab",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "sketching/sketching.md"
+                "file": "1ere/Couleur et texture/Couleur&Texture.md"
               }
-            }
-          },
-          {
-            "id": "7324284e98721289",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "sketching/sketching.md"
-              }
-            }
-          },
-          {
-            "id": "fe496ad6162f5999",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OLN/projet peda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7027ab3269954a44",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 316.5
   },
   "right": {
     "id": "948ca0492e0d734e",
@@ -114,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sketching/sketching.md",
+                "file": "1ere/Couleur et texture/Couleur&Texture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sketching/sketching.md",
+                "file": "1ere/Couleur et texture/Couleur&Texture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sketching/sketching.md"
+                "file": "1ere/Couleur et texture/Couleur&Texture.md"
               }
             }
           }
@@ -177,47 +146,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7027ab3269954a44",
+  "active": "56a967671b2d61ab",
   "lastOpenFiles": [
-    "OLN/OLN Overview.md",
-    "OLN/OLN Overview.sync-conflict-20240906-093624-XQLPSAN.md",
-    "OLN/~syncthing~OLN Overview.sync-conflict-20240906-093624-XQLPSAN.md.tmp",
+    "Pasted Image 20240912224328_237.png",
+    "1ere/Couleur et texture/~syncthing~Couleur&Texture.md.tmp",
+    "Pasted Image 20240912223347_766.jpg",
+    "~syncthing~Pasted Image 20240912223347_766.jpg.tmp",
+    "Pasted Image 20240912223302_689.jpg",
+    "Pasted Image 20240912223302_500.jpg",
+    "~syncthing~Pasted Image 20240912223302_689.jpg.tmp",
+    "~syncthing~Pasted Image 20240912223302_500.jpg.tmp",
+    "Pasted Image 20240912223211_955.jpg",
+    "~syncthing~Pasted Image 20240912223211_955.jpg.tmp",
+    "Pasted Image 20240912223151_484.jpg",
+    "Pasted Image 20240912223151_670.jpg",
+    "~syncthing~Pasted Image 20240912223151_484.jpg.tmp",
+    "~syncthing~Pasted Image 20240912223151_670.jpg.tmp",
+    "Pasted Image 20240912223050_967.jpg",
+    "~syncthing~Pasted Image 20240912223050_967.jpg.tmp",
+    "Pasted Image 20240912223030_449.jpg",
+    "~syncthing~Pasted Image 20240912223030_449.jpg.tmp",
+    "1ere/~syncthing~sequence 1.md.tmp",
+    "Pasted Image 20240912222313_262.png",
+    "Pasted Image 20240912222258_257.png",
+    "1ere/Couleur et texture/Couleur&Texture.md",
+    "1ere/1ere overview.md",
+    "OLN/JV/JV S1.md",
+    "OLN/JV/JV S1 COURS.md",
     "OLN/projet peda.md",
-    "OLN/OLN Overview.sync-conflict-20240903-203134-XQLPSAN.md",
-    "OLN/~syncthing~OLN Overview.sync-conflict-20240903-203134-XQLPSAN.md.tmp",
-    "sketching/sketch timeline.md",
-    "Pasted Image 20240903203014_436.jpg",
-    "OLN/~syncthing~OLN Overview.md.tmp",
-    "~syncthing~Pasted Image 20240903203014_436.jpg.tmp",
     "0 Tml/Tml overview.md",
     "2nd/2nd overview.md",
-    "sketching/prototype3.jpeg",
-    "sketching/prototype2.jpeg",
-    "sketching/prototype.jpeg",
-    "sketching/image.png",
-    "sketching/image (2).png",
-    "sketching/image (1).png",
-    "sketching/WhatsApp Image 2024-07-16 at 02.18.19.jpeg",
-    "sketching/README.md",
-    "pavlovplus.png",
-    "README.md",
-    "Programme.md",
-    "Pasted image 20240827170503.png",
-    "OLN/README.md",
-    "2nd/projet pedagogique.md",
-    "OLN/dossier-affinity.pdf",
-    "1ere/1ere overview.md",
-    "1ere/Dessin didactique.pdf",
+    "sketching/sketch timeline.md",
     "sketching/sketching.md",
-    "Première-STD2A-Programme-Outils-et-langages-numeriques_0.pdf",
-    "OLN/Première-STD2A-Programme-Outils-et-langages-numeriques_0.pdf",
-    "OLN",
-    "Document sans titre.pdf",
-    "1ere/sequence 1.md",
-    "projet pedagogique.md",
     "sketching/sketching 2.md",
-    "STDAA COURS.md",
-    "timeline.md",
-    "Excalidraw/Test 1.md"
+    "OLN/Carto Num/Fiche carto numérique.md",
+    "OLN/Carto Num/Fiche Miro.md",
+    "OLN/Carto Num/Carto Num overview.md",
+    "OLN/OLN Overview.md",
+    "OLN/OLN Overview.sync-conflict-20240912-154452-Q53SF66.md",
+    "OLN/JV/Séquence JV.md",
+    "OLN/JV/JV S1 Critère d'évaluation.md",
+    "OLN/JV/Attendus.md",
+    "OLN/JV/JV Déroulé séquence.md",
+    "OLN/README.md",
+    "OLN/OLN Overview.sync-conflict-20240906-093624-XQLPSAN.md",
+    "OLN/OLN Overview.sync-conflict-20240903-203134-XQLPSAN.md",
+    "sketching/README.md",
+    "README.md",
+    "Programme.md"
   ]
 }

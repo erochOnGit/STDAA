@@ -10,8 +10,8 @@ excalidraw-plugin: parsed
 # Excalidraw Data
 ## Text Elements
 ## Element Links
-DY8oa8MZ: [[OLN/dessin.svg]]
-vF7lqSmK: [[OLN/dessin.svg]]
+DY8oa8MZ: [[dessin.svg]]
+vF7lqSmK: [[dessin.svg]]
 
 ## Embedded Files
 ee4c3342e3a6ee494b602ea59f819e2a13e021ab: [[dessin.svg]]
