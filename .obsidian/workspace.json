@@ -4,53 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "2740320f6185e4f7",
+        "id": "da6bbee6a7145123",
         "type": "tabs",
         "children": [
           {
-            "id": "d1a35ad2f3429382",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1ere/PAV/1ere overview.md"
-              }
-            }
-          },
-          {
-            "id": "3bd3d95b1e746461",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "0 Tml/PAV/Copie de Exercice Mannequin.pdf"
-              }
-            }
-          },
-          {
-            "id": "d8425385959d0a71",
+            "id": "41383dba58ac05ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Tml/ETLV/Sneakers/Sneakers.md",
+                "file": "1ere/OLN/JV/S2/Déroulé JV S2.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "26895a5478e9d5d9",
+        "type": "tabs",
+        "children": [
           {
-            "id": "1e1c86391f3f8b9e",
+            "id": "56a967671b2d61ab",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "sketching/sketch timeline.md"
+                "file": "1ere/OLN/JV/S2/FIche technique élève.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 316.5
   },
   "right": {
     "id": "948ca0492e0d734e",
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Tml/ETLV/Sneakers/Sneakers.md",
+                "file": "1ere/OLN/JV/S2/Déroulé JV S2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Tml/ETLV/Sneakers/Sneakers.md",
+                "file": "1ere/OLN/JV/S2/Déroulé JV S2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Tml/ETLV/Sneakers/Sneakers.md"
+                "file": "1ere/OLN/JV/S2/Déroulé JV S2.md"
               }
             }
           }
@@ -175,56 +162,55 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8425385959d0a71",
+  "active": "41383dba58ac05ea",
   "lastOpenFiles": [
-    "0 Tml/ETLV/Sneakers sequence.pdf",
-    "0 Tml/ETLV/Sneakers sequence.pdf.crdownload",
-    "0 Tml/ETLV/ETLV Overview.md",
-    "0 Tml/ETLV/Sneakers/Sneakers.md",
-    "0 Tml/ETLV/Sneakers",
-    "0 Tml/PAV/Copie de Exercice Mannequin.pdf",
-    "1ere/PAV/1ere overview.md",
-    "0 Tml/PAV",
-    "Untitled",
-    "1ere/PAV/Couleur et texture/Couleur&Texture.md",
-    "1ere/PAV",
-    "0 Tml/ETLV",
-    "0 Tml/PAV/Tml overview.md",
-    "0 Tml/PAV/Drawing 2024-09-15 11.56.14.excalidraw.md",
-    "sketching/sketching.md",
-    "Pasted image 20240903230100.png",
-    "Pasted image 20240903222731.png",
-    "Pasted image 20240903222652.png",
-    "Pasted image 20240903222511.png",
-    "Pasted image 20240903222439.png",
-    "Pasted image 20240903222348.png",
-    "Pasted image 20240903222328.png",
-    "Pasted image 20240903222258.png",
-    "Pasted image 20240903222145.png",
-    "Pasted image 20240903222010.png",
+    "1ere/OLN/JV/S2/Tiles with night.svg",
     "1ere/OLN/JV/Séquence JV.md",
-    "1ere/OLN/JV/JV S1.md",
-    "1ere/OLN/JV/JV S1 Critère d'évaluation.md",
-    "1ere/OLN/JV/JV S1 COURS.md",
+    "1ere/OLN/JV/S2/Tiles with tree.svg",
+    "1ere/OLN/JV/S2/tiles.svg",
+    "1ere/OLN/JV/S2/Déroulé JV S2.md",
+    "1ere/OLN/JV/S2/FIche technique élève.md",
+    "1ere/OLN/JV/S2/Fiche élève S2 JV.md",
+    "1ere/OLN/JV/S2/Fiche élève S2 JV 1.svg",
+    "1ere/OLN/JV/S2/Fiche élève S2 JV.svg",
+    "Excalidraw/cropped_Pasted Image 20240918005512_505.md",
+    "Pasted Image 20240918010805_467.png",
+    "1ere/OLN/JV/S2/Intro manager jv s2.svg",
+    "1ere/OLN/OLN Overview.md",
+    "Pasted Image 20240918005512_505.png",
+    "Pasted Image 20240918005016_350.png",
+    "Pasted image 20240918004506.png",
+    "0 Tml/ETLV/Sneakers/sneakers s1 fiche.md",
     "1ere/OLN/JV/JV Déroulé séquence.md",
-    "1ere/OLN/JV/Attendus.pdf",
-    "1ere/OLN/JV/Attendus.md",
-    "1ere/OLN/JV",
-    "1ere/OLN/Carto Num/Fiche Miro.pdf",
-    "1ere/OLN/Carto Num/Fiche Miro.md",
-    "1ere/OLN/Carto Num/Fiche carto numérique.md",
-    "1ere/OLN/Carto Num/Carto Num overview.md",
-    "Excalidraw/cropped_Pasted Image 20240903220815_856.md",
-    "Excalidraw/cropped_Pasted image 20240903220721.md",
-    "Excalidraw/cropped_Pasted Image 20240903215301_152.md",
-    "Excalidraw/cropped_Pasted Image 20240903215230_159.md",
-    "Excalidraw/cropped_Pasted Image 20240903212924_465.md",
-    "Excalidraw/cropped_dessin.md",
-    "Excalidraw/cropped_cropped_Pasted image 20240903220721.md",
-    "Excalidraw/cropped_cropped_Pasted Image 20240903215301_152.md",
-    "Excalidraw/cropped_cropped_dessin.md"
+    "1ere/OLN/JV/S2",
+    "1ere/OLN/JV/S1/JV S1 Critère d'évaluation.md",
+    "1ere/OLN/JV/S1/JV S1 COURS.md",
+    "1ere/OLN/JV/S1/JV S1.md",
+    "0 Tml/ETLV/Sneakers/Sneakers S1 Déroulé détaillé.md",
+    "1ere/OLN/JV/S1",
+    "0 Tml/ETLV/ETLV overview.md",
+    "0 Tml/PAV/PAV 1e Activité de rentrée.pdf",
+    "0 Tml/ETLV/Sneakers/Sneakers sequence.pdf",
+    "0 Tml/ETLV/Sneakers/Sneakers.md",
+    "1ere/PAV/Couleur et texture/Couleur&Texture.md",
+    "sketching/sketching 1.md",
+    "README 1.md",
+    "1ere/PAV/spe643_annexe1_1063858.pdf",
+    "1ere/PAV/sequence 1.md",
+    "1ere/PAV/Initiation au dessin - Diapo.pdf",
+    "1ere/PAV/fiche perspective linéaire.pdf",
+    "1ere/PAV/Drawing 2024-09-15 11.57.34.excalidraw.md",
+    "1ere/PAV/Dessin didactique.pdf",
+    "1ere/PAV/Couleur et texture",
+    "1ere/PAV/1ere overview.md",
+    "1ere/PAV",
+    "1ere/OLN/projet peda.md",
+    "1ere/OLN/README.md",
+    "1ere/OLN/JV/S1/Attendus.md",
+    "1ere/Couleur et texture/Couleur&Texture.md"
   ]
 }
