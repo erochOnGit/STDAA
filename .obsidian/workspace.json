@@ -4,40 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "da6bbee6a7145123",
+        "id": "bbd8d95a2d2db17d",
         "type": "tabs",
         "children": [
           {
-            "id": "41383dba58ac05ea",
+            "id": "b5af79c8ca49d092",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1ere/OLN/JV/S2/Déroulé JV S2.md",
-                "mode": "source",
-                "source": false
+                "file": "1ere/PAV/Couleur et texture/planche 1.svg"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "26895a5478e9d5d9",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "56a967671b2d61ab",
+            "id": "bb9c23953f170abd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1ere/OLN/JV/S2/FIche technique élève.md",
-                "mode": "source",
-                "source": false
+                "file": "0 Tml/PAV/Marionnette/Marionnette overview.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 299.5
   },
   "right": {
     "id": "948ca0492e0d734e",
@@ -103,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1ere/OLN/JV/S2/Déroulé JV S2.md",
+                "file": "0 Tml/PAV/Marionnette/Marionnette overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1ere/OLN/JV/S2/Déroulé JV S2.md",
+                "file": "0 Tml/PAV/Marionnette/Marionnette overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1ere/OLN/JV/S2/Déroulé JV S2.md"
+                "file": "0 Tml/PAV/Marionnette/Marionnette overview.md"
               }
             }
           }
@@ -156,61 +147,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41383dba58ac05ea",
+  "active": "2ab586091752f069",
   "lastOpenFiles": [
-    "1ere/OLN/JV/S2/Tiles with night.svg",
-    "1ere/OLN/JV/Séquence JV.md",
-    "1ere/OLN/JV/S2/Tiles with tree.svg",
-    "1ere/OLN/JV/S2/tiles.svg",
-    "1ere/OLN/JV/S2/Déroulé JV S2.md",
-    "1ere/OLN/JV/S2/FIche technique élève.md",
-    "1ere/OLN/JV/S2/Fiche élève S2 JV.md",
-    "1ere/OLN/JV/S2/Fiche élève S2 JV 1.svg",
-    "1ere/OLN/JV/S2/Fiche élève S2 JV.svg",
-    "Excalidraw/cropped_Pasted Image 20240918005512_505.md",
-    "Pasted Image 20240918010805_467.png",
-    "1ere/OLN/JV/S2/Intro manager jv s2.svg",
-    "1ere/OLN/OLN Overview.md",
-    "Pasted Image 20240918005512_505.png",
-    "Pasted Image 20240918005016_350.png",
+    "1ere/PAV/Couleur et texture/planche 1.svg",
+    "0 Tml/PAV/Marionnette/Marionnette overview.md",
+    "1ere/PAV/Couleur et texture/1er cours.md",
+    "0 Tml/PAV/Marionnette",
+    "1ere/PAV/Couleur et texture/1er cours Ce quil reste à faire.svg",
+    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
+    "Excalidraw/Scripts/Downloaded/Connect elements.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "1ere/PAV/Couleur et texture/Couleur&Texture.md",
+    "1ere/PAV/1ere overview.md",
+    "0 Tml/PAV/Copie de Exercice Mannequin.pdf",
+    "0 Tml/ETLV/Sneakers/Sneakers.md",
     "Pasted image 20240918004506.png",
-    "0 Tml/ETLV/Sneakers/sneakers s1 fiche.md",
-    "1ere/OLN/JV/JV Déroulé séquence.md",
+    "Pasted image 20240918004426.png",
+    "Pasted image 20240918004359.png",
+    "Pasted image 20240918004344.png",
+    "Pasted image 20240918003903.png",
+    "Pasted image 20240918001817.png",
+    "Pasted image 20240918000601.png",
+    "Excalidraw/cropped_Pasted Image 20240918005512_505.md",
+    "1ere/OLN/JV/S2/Fiche élève S2 JV.md",
+    "1ere/OLN/JV/S2/FIche technique élève.md",
+    "1ere/OLN/JV/S2/Déroulé JV S2.md",
     "1ere/OLN/JV/S2",
+    "1ere/OLN/JV/S1/JV S1.md",
     "1ere/OLN/JV/S1/JV S1 Critère d'évaluation.md",
     "1ere/OLN/JV/S1/JV S1 COURS.md",
-    "1ere/OLN/JV/S1/JV S1.md",
-    "0 Tml/ETLV/Sneakers/Sneakers S1 Déroulé détaillé.md",
-    "1ere/OLN/JV/S1",
-    "0 Tml/ETLV/ETLV overview.md",
-    "0 Tml/PAV/PAV 1e Activité de rentrée.pdf",
-    "0 Tml/ETLV/Sneakers/Sneakers sequence.pdf",
-    "0 Tml/ETLV/Sneakers/Sneakers.md",
-    "1ere/PAV/Couleur et texture/Couleur&Texture.md",
-    "sketching/sketching 1.md",
-    "README 1.md",
-    "1ere/PAV/spe643_annexe1_1063858.pdf",
-    "1ere/PAV/sequence 1.md",
-    "1ere/PAV/Initiation au dessin - Diapo.pdf",
-    "1ere/PAV/fiche perspective linéaire.pdf",
-    "1ere/PAV/Drawing 2024-09-15 11.57.34.excalidraw.md",
-    "1ere/PAV/Dessin didactique.pdf",
-    "1ere/PAV/Couleur et texture",
-    "1ere/PAV/1ere overview.md",
-    "1ere/PAV",
-    "1ere/OLN/projet peda.md",
-    "1ere/OLN/README.md",
+    "1ere/OLN/JV/S1/Attendus.pdf",
     "1ere/OLN/JV/S1/Attendus.md",
-    "1ere/Couleur et texture/Couleur&Texture.md"
+    "1ere/OLN/JV/S1",
+    "0 Tml/ETLV/Sneakers/sneakers s1 fiche.md",
+    "0 Tml/ETLV/Sneakers/Sneakers sequence.pdf",
+    "0 Tml/ETLV/Sneakers/Sneakers S1 Déroulé détaillé.md",
+    "0 Tml/ETLV/Sneakers sequence.pdf",
+    "0 Tml/ETLV/Sneakers sequence.pdf.crdownload",
+    "0 Tml/ETLV/ETLV Overview.md",
+    "0 Tml/PAV/Tml overview.md",
+    "0 Tml/PAV/Drawing 2024-09-15 11.56.14.excalidraw.md",
+    "sketching/sketching.md",
+    "1ere/OLN/JV/Séquence JV.md",
+    "1ere/OLN/JV/JV S1.md",
+    "1ere/OLN/JV/JV S1 Critère d'évaluation.md",
+    "1ere/OLN/JV/JV S1 COURS.md",
+    "1ere/OLN/JV/JV Déroulé séquence.md"
   ]
 }
