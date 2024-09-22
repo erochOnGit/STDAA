@@ -21,9 +21,9 @@
             "id": "bb9c23953f170abd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/1er cours.md"
+                "file": "1ere/PAV/Couleur et texture/planche 2.svg"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/1er cours.md",
+                "file": "1ere/PAV/Couleur et texture/planche 2.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/1er cours.md",
+                "file": "1ere/PAV/Couleur et texture/planche 2.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/1er cours.md"
+                "file": "1ere/PAV/Couleur et texture/planche 2.svg"
               }
             }
           }
@@ -157,10 +157,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb9c23953f170abd",
+  "active": "2ab586091752f069",
   "lastOpenFiles": [
-    "0 Tml/PAV/Eau et vent/Eau & vent.md",
     "1ere/PAV/Couleur et texture/1er cours.md",
+    "1ere/PAV/Couleur et texture/planche 2.svg",
+    "0 Tml/PAV/Eau et vent/Eau & vent.md",
     "0 Tml/PAV/Eau et vent",
     "0 Tml/PAV/Marionnette/Marionnette overview.md",
     "Pasted Image 20240921235635_258.png",
@@ -183,7 +184,6 @@
     "Pasted image 20240918004506.png",
     "Pasted image 20240918004426.png",
     "Pasted image 20240918004359.png",
-    "Pasted image 20240918004344.png",
     "Excalidraw/cropped_Pasted Image 20240918005512_505.md",
     "1ere/OLN/JV/S2/Fiche élève S2 JV.md",
     "1ere/OLN/JV/S2/FIche technique élève.md",
@@ -203,7 +203,6 @@
     "1ere/OLN/JV/Séquence JV.md",
     "1ere/OLN/JV/JV S1.md",
     "1ere/OLN/JV/JV S1 Critère d'évaluation.md",
-    "1ere/OLN/JV/JV S1 COURS.md",
-    "1ere/OLN/JV/JV Déroulé séquence.md"
+    "1ere/OLN/JV/JV S1 COURS.md"
   ]
 }
