@@ -23,7 +23,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "0 Tml/PAV/Marionnette/Marionnette overview.md"
+                "file": "1ere/PAV/Couleur et texture/1er cours.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Tml/PAV/Marionnette/Marionnette overview.md",
+                "file": "1ere/PAV/Couleur et texture/1er cours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Tml/PAV/Marionnette/Marionnette overview.md",
+                "file": "1ere/PAV/Couleur et texture/1er cours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Tml/PAV/Marionnette/Marionnette overview.md"
+                "file": "1ere/PAV/Couleur et texture/1er cours.md"
               }
             }
           }
@@ -157,11 +157,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ab586091752f069",
+  "active": "bb9c23953f170abd",
   "lastOpenFiles": [
-    "1ere/PAV/Couleur et texture/planche 1.svg",
-    "0 Tml/PAV/Marionnette/Marionnette overview.md",
+    "0 Tml/PAV/Eau et vent/Eau & vent.md",
     "1ere/PAV/Couleur et texture/1er cours.md",
+    "0 Tml/PAV/Eau et vent",
+    "0 Tml/PAV/Marionnette/Marionnette overview.md",
+    "Pasted Image 20240921235635_258.png",
+    "Pasted Image 20240921235535_237.png",
+    "Pasted Image 20240921235332_028.png",
+    "0 Tml/PAV/Copie de Exercice Mannequin.pdf",
+    "0 Tml/PAV/Drawing 2024-09-15 11.56.14.excalidraw.md",
+    "0 Tml/PAV/Tml overview.md",
+    "0 Tml/PAV/PAV 1e Activité de rentrée.pdf",
+    "1ere/PAV/Couleur et texture/planche 1.svg",
     "0 Tml/PAV/Marionnette",
     "1ere/PAV/Couleur et texture/1er cours Ce quil reste à faire.svg",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
@@ -170,15 +179,11 @@
     "Excalidraw/Scripts",
     "1ere/PAV/Couleur et texture/Couleur&Texture.md",
     "1ere/PAV/1ere overview.md",
-    "0 Tml/PAV/Copie de Exercice Mannequin.pdf",
     "0 Tml/ETLV/Sneakers/Sneakers.md",
     "Pasted image 20240918004506.png",
     "Pasted image 20240918004426.png",
     "Pasted image 20240918004359.png",
     "Pasted image 20240918004344.png",
-    "Pasted image 20240918003903.png",
-    "Pasted image 20240918001817.png",
-    "Pasted image 20240918000601.png",
     "Excalidraw/cropped_Pasted Image 20240918005512_505.md",
     "1ere/OLN/JV/S2/Fiche élève S2 JV.md",
     "1ere/OLN/JV/S2/FIche technique élève.md",
@@ -193,11 +198,7 @@
     "0 Tml/ETLV/Sneakers/sneakers s1 fiche.md",
     "0 Tml/ETLV/Sneakers/Sneakers sequence.pdf",
     "0 Tml/ETLV/Sneakers/Sneakers S1 Déroulé détaillé.md",
-    "0 Tml/ETLV/Sneakers sequence.pdf",
-    "0 Tml/ETLV/Sneakers sequence.pdf.crdownload",
     "0 Tml/ETLV/ETLV Overview.md",
-    "0 Tml/PAV/Tml overview.md",
-    "0 Tml/PAV/Drawing 2024-09-15 11.56.14.excalidraw.md",
     "sketching/sketching.md",
     "1ere/OLN/JV/Séquence JV.md",
     "1ere/OLN/JV/JV S1.md",
