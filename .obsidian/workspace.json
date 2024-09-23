@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "da6bbee6a7145123",
+        "id": "2f1b46f461b92e6d",
         "type": "tabs",
         "children": [
           {
-            "id": "41383dba58ac05ea",
+            "id": "28032cf0aef76310",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1ere/OLN/JV/S2/Déroulé JV S2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "26895a5478e9d5d9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "56a967671b2d61ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1ere/OLN/JV/S2/FIche technique élève.md",
-                "mode": "source",
+                "file": "1ere/PAV/Couleur et texture/S1/S1 C&T Liste des notions.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1ere/OLN/JV/S2/Déroulé JV S2.md",
+                "file": "1ere/PAV/Couleur et texture/S1/S1 C&T Liste des notions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1ere/OLN/JV/S2/Déroulé JV S2.md",
+                "file": "1ere/PAV/Couleur et texture/S1/S1 C&T Liste des notions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1ere/OLN/JV/S2/Déroulé JV S2.md"
+                "file": "1ere/PAV/Couleur et texture/S1/S1 C&T Liste des notions.md"
               }
             }
           }
@@ -166,24 +148,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41383dba58ac05ea",
+  "active": "28032cf0aef76310",
   "lastOpenFiles": [
+    "1ere/PAV/Couleur et texture/S1/S1 C&T.md",
+    "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Péda.md",
+    "1ere/PAV/Couleur et texture/C&T Déroulé séquence.md",
+    "1ere/PAV/Couleur et texture/S1/S1 C&T Liste des notions.md",
+    "1ere/PAV/Couleur et texture/S1 C&T Liste des notions.pdf",
+    "1ere/PAV/Couleur et texture/S1 C&T Fiche Péda.pdf",
+    "1ere/PAV/Couleur et texture/S1 C&T.pdf",
+    "1ere/PAV/Couleur et texture/C&T Déroulé séquence.pdf",
+    "1ere/PAV/Couleur et texture/S1 idées.svg",
+    "1ere/PAV/Couleur et texture/S1",
+    "1ere/PAV/Couleur et texture/Couleur&Texture.md",
+    "Pasted Image 20240912223151_670.jpg",
+    "sketching/sketching.md",
+    "Pasted Image 20240919212826_286.png",
+    "Excalidraw/cropped_cropped_S1 idées.md",
+    "Excalidraw/cropped_S1 idées_1.md",
+    "Excalidraw/cropped_S1 idées_0.md",
+    "Excalidraw/cropped_S1 idées.md",
+    "sketching/cal cours code.svg",
+    "1ere/OLN/JV/S2/FIche technique élève.md",
+    "1ere/OLN/JV/S2/Déroulé JV S2.md",
     "1ere/OLN/JV/S2/Tiles with night.svg",
     "1ere/OLN/JV/Séquence JV.md",
     "1ere/OLN/JV/S2/Tiles with tree.svg",
     "1ere/OLN/JV/S2/tiles.svg",
-    "1ere/OLN/JV/S2/Déroulé JV S2.md",
-    "1ere/OLN/JV/S2/FIche technique élève.md",
     "1ere/OLN/JV/S2/Fiche élève S2 JV.md",
     "1ere/OLN/JV/S2/Fiche élève S2 JV 1.svg",
     "1ere/OLN/JV/S2/Fiche élève S2 JV.svg",
     "Excalidraw/cropped_Pasted Image 20240918005512_505.md",
     "Pasted Image 20240918010805_467.png",
-    "1ere/OLN/JV/S2/Intro manager jv s2.svg",
     "1ere/OLN/OLN Overview.md",
-    "Pasted Image 20240918005512_505.png",
-    "Pasted Image 20240918005016_350.png",
-    "Pasted image 20240918004506.png",
     "0 Tml/ETLV/Sneakers/sneakers s1 fiche.md",
     "1ere/OLN/JV/JV Déroulé séquence.md",
     "1ere/OLN/JV/S2",
@@ -196,21 +193,7 @@
     "0 Tml/PAV/PAV 1e Activité de rentrée.pdf",
     "0 Tml/ETLV/Sneakers/Sneakers sequence.pdf",
     "0 Tml/ETLV/Sneakers/Sneakers.md",
-    "1ere/PAV/Couleur et texture/Couleur&Texture.md",
     "sketching/sketching 1.md",
-    "README 1.md",
-    "1ere/PAV/spe643_annexe1_1063858.pdf",
-    "1ere/PAV/sequence 1.md",
-    "1ere/PAV/Initiation au dessin - Diapo.pdf",
-    "1ere/PAV/fiche perspective linéaire.pdf",
-    "1ere/PAV/Drawing 2024-09-15 11.57.34.excalidraw.md",
-    "1ere/PAV/Dessin didactique.pdf",
-    "1ere/PAV/Couleur et texture",
-    "1ere/PAV/1ere overview.md",
-    "1ere/PAV",
-    "1ere/OLN/projet peda.md",
-    "1ere/OLN/README.md",
-    "1ere/OLN/JV/S1/Attendus.md",
-    "1ere/Couleur et texture/Couleur&Texture.md"
+    "1ere/PAV/spe643_annexe1_1063858.pdf"
   ]
 }
