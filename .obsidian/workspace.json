@@ -21,14 +21,46 @@
             "id": "cdaeefcec76913ec",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md"
+              }
+            }
+          },
+          {
+            "id": "29971a3947a11fc5",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/planche 1.svg"
+                "file": "1ere/PAV/Couleur et texture/S1/planche 2.svg"
+              }
+            }
+          },
+          {
+            "id": "9e21fdad5c1d7e3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1ere/PAV/Couleur et texture/C&T Déroulé séquence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8673fe0244d11ad8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/planche 1.svg",
+                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/planche 1.svg",
+                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/planche 1.svg"
+                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md"
               }
             }
           }
@@ -157,36 +189,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdaeefcec76913ec",
+  "active": "8673fe0244d11ad8",
   "lastOpenFiles": [
+    "Pasted Image 20240926200538_404.png",
+    "Pasted Image 20240926200356_917.png",
+    "Pasted Image 20240926200341_267.png",
+    "Pasted Image 20240926200209_922.png",
+    "1ere/PAV/Couleur et texture/S1/1er cours révisé par Gabriel.md",
+    "1ere/PAV/Couleur et texture/S1/1er cours révisé par Gabriel.pdf",
+    "1ere/PAV/Couleur et texture/S1/1er cours.md",
+    "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.md",
     "1ere/PAV/Couleur et texture/Notions & critères d'évaluation.svg",
-    "1ere/PAV/Couleur et texture/1er cours.md",
-    "1ere/PAV/Couleur et texture/Pantone-Pairings-David-Schwen.jpg",
-    "1ere/PAV/Couleur et texture/planche 2.1.svg",
-    "1ere/PAV/Couleur et texture/Couleur&Texture.md",
-    "1ere/PAV/Couleur et texture/1er cours Ce quil reste à faire.svg",
     "1ere/PAV/Couleur et texture/C&T Déroulé séquence.md",
+    "1ere/PAV/Couleur et texture/S1/S1 C&T.pdf",
+    "1ere/PAV/Couleur et texture/S2",
+    "1ere/PAV/Couleur et texture/S1/planche 2.1.svg",
+    "1ere/PAV/Couleur et texture/S1/planche 2.svg",
+    "1ere/PAV/Couleur et texture/S1/1er cours Ce quil reste à faire.svg",
+    "1ere/PAV/Couleur et texture/S1/planche 1.svg",
+    "1ere/PAV/Couleur et texture/Pantone-Pairings-David-Schwen.jpg",
+    "1ere/PAV/Couleur et texture/Couleur&Texture.md",
     "1ere/PAV/Couleur et texture/S1/S1 C&T Liste des notions.md",
     "Pasted Image 20240921235635_258.png",
-    "Pasted Image 20240921235535_237.png",
-    "Pasted Image 20240921235332_028.png",
-    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "1ere/PAV/Couleur et texture/planche 2.svg",
-    "1ere/PAV/Couleur et texture/planche 1.svg",
     "0 Tml/PAV/Marionnette/Marionnette overview.md",
     "0 Tml/PAV/Marionnette",
     "0 Tml/PAV/Eau et vent/Eau & vent.md",
     "0 Tml/PAV/Eau et vent",
     "1ere/PAV/Couleur et texture/S1/S1 C&T.md",
     "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Péda.md",
-    "1ere/PAV/Couleur et texture/S1 C&T Liste des notions.pdf",
-    "1ere/PAV/Couleur et texture/S1 C&T Fiche Péda.pdf",
-    "1ere/PAV/Couleur et texture/S1 C&T.pdf",
+    "1ere/PAV/Couleur et texture/S1/S1 C&T Liste des notions.pdf",
+    "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Péda.pdf",
     "1ere/PAV/Couleur et texture/C&T Déroulé séquence.pdf",
-    "1ere/PAV/Couleur et texture/S1",
     "sketching/sketching.md",
     "Excalidraw/cropped_cropped_S1 idées.md",
     "Excalidraw/cropped_S1 idées_1.md",
@@ -200,9 +236,6 @@
     "1ere/OLN/OLN Overview.md",
     "0 Tml/ETLV/Sneakers/sneakers s1 fiche.md",
     "1ere/OLN/JV/JV Déroulé séquence.md",
-    "1ere/OLN/JV/S2",
-    "1ere/OLN/JV/S1/JV S1 Critère d'évaluation.md",
-    "1ere/OLN/JV/S1/JV S1 COURS.md",
-    "1ere/OLN/JV/S1/JV S1.md"
+    "1ere/OLN/JV/S1/JV S1 Critère d'évaluation.md"
   ]
 }

@@ -10,8 +10,8 @@ excalidraw-plugin: parsed
 # Excalidraw Data
 ## Text Elements
 ## Element Links
-7vWqi6bQ: [[1ere/PAV/Couleur et texture/S1 idées.svg]] ^uZhlHg1I[[1ere/PAV/Couleur et texture/S1 idées.svg]]
-uZhlHg1I: [[1ere/PAV/Couleur et texture/S1 idées.svg]]
+7vWqi6bQ: [[S1 idées.svg]] ^uZhlHg1I[[S1 idées.svg]]
+uZhlHg1I: [[S1 idées.svg]]
 
 ## Embedded Files
 95620f92fa533cdd403b6824c3f9f5e38fef45e2: [[S1 idées.svg]]
