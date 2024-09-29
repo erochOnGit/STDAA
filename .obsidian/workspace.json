@@ -4,63 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "2f1b46f461b92e6d",
+        "id": "cfbb9a9868bf6fe2",
         "type": "tabs",
         "children": [
           {
-            "id": "28032cf0aef76310",
+            "id": "5abd56cd4ba47b4c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/Notions & critères d'évaluation.svg"
+                "file": "0 Tml/ETLV/Sneakers/Sneakers sequence.pdf"
               }
             }
           },
           {
-            "id": "cdaeefcec76913ec",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md"
-              }
-            }
-          },
-          {
-            "id": "29971a3947a11fc5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/planche 2.svg"
-              }
-            }
-          },
-          {
-            "id": "9e21fdad5c1d7e3d",
+            "id": "2901e31992c49e7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/C&T Déroulé séquence.md",
+                "file": "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "8673fe0244d11ad8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 299.5
   },
   "right": {
     "id": "948ca0492e0d734e",
@@ -126,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md",
+                "file": "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md",
+                "file": "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md"
+                "file": "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.md"
               }
             }
           }
@@ -179,63 +149,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8673fe0244d11ad8",
+  "active": "2901e31992c49e7d",
   "lastOpenFiles": [
-    "Pasted Image 20240926200538_404.png",
-    "Pasted Image 20240926200356_917.png",
-    "Pasted Image 20240926200341_267.png",
-    "Pasted Image 20240926200209_922.png",
-    "1ere/PAV/Couleur et texture/S1/1er cours révisé par Gabriel.md",
-    "1ere/PAV/Couleur et texture/S1/1er cours révisé par Gabriel.pdf",
-    "1ere/PAV/Couleur et texture/S1/1er cours.md",
-    "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.md",
-    "1ere/PAV/Couleur et texture/Notions & critères d'évaluation.svg",
-    "1ere/PAV/Couleur et texture/C&T Déroulé séquence.md",
-    "1ere/PAV/Couleur et texture/S1/S1 C&T.pdf",
-    "1ere/PAV/Couleur et texture/S2",
-    "1ere/PAV/Couleur et texture/S1/planche 2.1.svg",
-    "1ere/PAV/Couleur et texture/S1/planche 2.svg",
-    "1ere/PAV/Couleur et texture/S1/1er cours Ce quil reste à faire.svg",
-    "1ere/PAV/Couleur et texture/S1/planche 1.svg",
-    "1ere/PAV/Couleur et texture/Pantone-Pairings-David-Schwen.jpg",
-    "1ere/PAV/Couleur et texture/Couleur&Texture.md",
-    "1ere/PAV/Couleur et texture/S1/S1 C&T Liste des notions.md",
-    "Pasted Image 20240921235635_258.png",
-    "Excalidraw/Scripts/Downloaded/Connect elements.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "0 Tml/PAV/Marionnette/Marionnette overview.md",
-    "0 Tml/PAV/Marionnette",
-    "0 Tml/PAV/Eau et vent/Eau & vent.md",
-    "0 Tml/PAV/Eau et vent",
+    "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.pdf",
+    "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion élève.svg",
+    "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.md",
+    "1ere/PAV/Couleur et texture/S1/Fiche élève.md",
     "1ere/PAV/Couleur et texture/S1/S1 C&T.md",
-    "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Péda.md",
-    "1ere/PAV/Couleur et texture/S1/S1 C&T Liste des notions.pdf",
-    "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Péda.pdf",
-    "1ere/PAV/Couleur et texture/C&T Déroulé séquence.pdf",
+    "1ere/PAV/Couleur et texture/S1/C&T S1 Fiche élève.svg",
+    "Excalidraw/cropped_Pasted Image 20240929190858_108_0.md",
+    "Excalidraw/cropped_cropped_Pasted Image 20240929190858_108.md",
+    "Excalidraw/cropped_Pasted Image 20240929190858_108.md",
+    "Pasted Image 20240929190858_108.png",
+    "Pasted Image 20240929185559_056.png",
+    "1ere/PAV/Couleur et texture/S1/1er cours.md",
+    "0 Tml/ETLV/Sneakers/Sneakers sequence.pdf",
+    "0 Tml/ETLV/Sneakers/sneakers s1 fiche.md",
+    "0 Tml/ETLV/Sneakers/Sneakers S1 Déroulé détaillé.md",
+    "0 Tml/ETLV/Sneakers/sneakers s1.svg",
+    "0 Tml/ETLV/Sneakers/sneakers.png",
     "sketching/sketching.md",
+    "sketching/sketch timeline.md",
+    "sketching/README.md",
+    "sketching/prototype3.jpeg",
+    "sketching/prototype2.jpeg",
+    "sketching/prototype.jpeg",
+    "sketching/image (2).png",
+    "sketching/sketching 2.md",
+    "sketching/sketching 1.md",
+    "Programme.md",
+    "0 Tml/PAV/Marionnette/Marionnette overview.md",
     "Excalidraw/cropped_cropped_S1 idées.md",
     "Excalidraw/cropped_S1 idées_1.md",
     "Excalidraw/cropped_S1 idées_0.md",
     "Excalidraw/cropped_S1 idées.md",
-    "1ere/OLN/JV/S2/FIche technique élève.md",
-    "1ere/OLN/JV/S2/Déroulé JV S2.md",
-    "1ere/OLN/JV/Séquence JV.md",
-    "1ere/OLN/JV/S2/Fiche élève S2 JV.md",
-    "Excalidraw/cropped_Pasted Image 20240918005512_505.md",
-    "1ere/OLN/OLN Overview.md",
-    "0 Tml/ETLV/Sneakers/sneakers s1 fiche.md",
-    "1ere/OLN/JV/JV Déroulé séquence.md",
-    "1ere/OLN/JV/S1/JV S1 Critère d'évaluation.md"
+    "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.md",
+    "1ere/PAV/Couleur et texture/S2",
+    "1ere/PAV/Couleur et texture/S1/S1 C&T.pdf",
+    "1ere/PAV/Couleur et texture/S1/S1 C&T Liste des notions.pdf",
+    "1ere/PAV/Couleur et texture/S1/S1 C&T Liste des notions.md",
+    "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Péda.pdf",
+    "1ere/PAV/Couleur et texture/S1/1er cours révisé par Gabriel.pdf",
+    "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Péda.md",
+    "1ere/PAV/Couleur et texture/S1/1er cours révisé par Gabriel.md",
+    "1ere/PAV/Couleur et texture/S1",
+    "1ere/PAV/Couleur et texture/C&T Déroulé séquence.pdf",
+    "1ere/PAV/Couleur et texture/C&T Déroulé séquence.md",
+    "0 Tml/PAV/Eau et vent",
+    "0 Tml/PAV/Copie de Exercice Mannequin.pdf"
   ]
 }
