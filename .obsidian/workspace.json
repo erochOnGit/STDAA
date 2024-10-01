@@ -11,56 +11,15 @@
             "id": "28032cf0aef76310",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "1ere/PAV/Couleur et texture/Notions & critères d'évaluation.svg"
-              }
-            }
-          },
-          {
-            "id": "cdaeefcec76913ec",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md"
-              }
-            }
-          },
-          {
-            "id": "29971a3947a11fc5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/planche 2.svg"
-              }
-            }
-          },
-          {
-            "id": "9e21fdad5c1d7e3d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/C&T Déroulé séquence.md",
+                "file": "1ere/OLN/JV/S3 Illustrator/Fiche séance.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "8673fe0244d11ad8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md"
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md",
+                "file": "1ere/OLN/JV/S3 Illustrator/Fiche séance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md",
+                "file": "1ere/OLN/JV/S3 Illustrator/Fiche séance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md"
+                "file": "1ere/OLN/JV/S3 Illustrator/Fiche séance.md"
               }
             }
           }
@@ -189,53 +148,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8673fe0244d11ad8",
+  "active": "28032cf0aef76310",
   "lastOpenFiles": [
-    "Pasted Image 20240926200538_404.png",
-    "Pasted Image 20240926200356_917.png",
-    "Pasted Image 20240926200341_267.png",
-    "Pasted Image 20240926200209_922.png",
+    "1ere/OLN/JV/S3 Illustrator/Fiche séance.svg",
+    "1ere/OLN/JV/Séquence JV.md",
+    "1ere/OLN/JV/S3 Illustrator/Fiche séance.md",
+    "1ere/OLN/JV/S3 Illustrator/Fiche Séance illustrator.svg",
+    "1ere/OLN/JV/JV Déroulé séquence.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
+    "1ere/OLN/JV/S3 Illustrator/S 3 C&T Déroulé.pdf",
+    "1ere/OLN/JV/S3 Illustrator/Fiche séance.pdf",
+    "1ere/OLN/JV/S3 Illustrator/Fiche séance s3.svg",
+    "1ere/OLN/JV/S3 Illustrator/Fiche séance 1.svg",
+    "1ere/PAV/Couleur et texture/Notions & critères d'évaluation.svg",
+    "1ere/PAV/Couleur et texture/S1/1er cours.md",
+    "1ere/PAV/Couleur et texture/C&T Déroulé séquence.md",
+    "1ere/PAV/Couleur et texture/S1/planche 2.svg",
+    "Excalidraw/cropped_Pasted Image 20241002002032_252.md",
+    "Pasted Image 20241002002032_252.png",
+    "Pasted Image 20241002001251_859.png",
+    "Pasted Image 20241002001233_806.png",
+    "1ere/OLN/OLN Overview.md",
+    "1ere/OLN/JV/S1/JV S1 Critère d'évaluation.md",
+    "1ere/OLN/JV/S1/JV S1 COURS.md",
+    "1ere/OLN/JV/S1/JV S1.md",
+    "1ere/OLN/JV/S3 Illustrator/Drawing 2024-10-01 23.19.59.excalidraw.md",
+    "1ere/OLN/JV/S3 Illustrator/Déroulé S3 JV.md",
+    "1ere/OLN/JV/S3 Illustrator/Fiche technique.md",
+    "1ere/OLN/JV/S3 Illustrator/S 3 C&T Fiche technique.pdf",
+    "1ere/OLN/JV/S3 Illustrator",
     "1ere/PAV/Couleur et texture/S1/1er cours révisé par Gabriel.md",
     "1ere/PAV/Couleur et texture/S1/1er cours révisé par Gabriel.pdf",
-    "1ere/PAV/Couleur et texture/S1/1er cours.md",
     "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.md",
-    "1ere/PAV/Couleur et texture/Notions & critères d'évaluation.svg",
-    "1ere/PAV/Couleur et texture/C&T Déroulé séquence.md",
     "1ere/PAV/Couleur et texture/S1/S1 C&T.pdf",
     "1ere/PAV/Couleur et texture/S2",
-    "1ere/PAV/Couleur et texture/S1/planche 2.1.svg",
-    "1ere/PAV/Couleur et texture/S1/planche 2.svg",
-    "1ere/PAV/Couleur et texture/S1/1er cours Ce quil reste à faire.svg",
-    "1ere/PAV/Couleur et texture/S1/planche 1.svg",
-    "1ere/PAV/Couleur et texture/Pantone-Pairings-David-Schwen.jpg",
     "1ere/PAV/Couleur et texture/Couleur&Texture.md",
     "1ere/PAV/Couleur et texture/S1/S1 C&T Liste des notions.md",
-    "Pasted Image 20240921235635_258.png",
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "0 Tml/PAV/Marionnette/Marionnette overview.md",
     "0 Tml/PAV/Marionnette",
     "0 Tml/PAV/Eau et vent/Eau & vent.md",
-    "0 Tml/PAV/Eau et vent",
     "1ere/PAV/Couleur et texture/S1/S1 C&T.md",
     "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Péda.md",
-    "1ere/PAV/Couleur et texture/S1/S1 C&T Liste des notions.pdf",
-    "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Péda.pdf",
-    "1ere/PAV/Couleur et texture/C&T Déroulé séquence.pdf",
     "sketching/sketching.md",
-    "Excalidraw/cropped_cropped_S1 idées.md",
-    "Excalidraw/cropped_S1 idées_1.md",
-    "Excalidraw/cropped_S1 idées_0.md",
-    "Excalidraw/cropped_S1 idées.md",
-    "1ere/OLN/JV/S2/FIche technique élève.md",
-    "1ere/OLN/JV/S2/Déroulé JV S2.md",
-    "1ere/OLN/JV/Séquence JV.md",
-    "1ere/OLN/JV/S2/Fiche élève S2 JV.md",
-    "Excalidraw/cropped_Pasted Image 20240918005512_505.md",
-    "1ere/OLN/OLN Overview.md",
-    "0 Tml/ETLV/Sneakers/sneakers s1 fiche.md",
-    "1ere/OLN/JV/JV Déroulé séquence.md",
-    "1ere/OLN/JV/S1/JV S1 Critère d'évaluation.md"
+    "Excalidraw/cropped_cropped_S1 idées.md"
   ]
 }
