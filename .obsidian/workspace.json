@@ -11,8 +11,12 @@
             "id": "af1f264ad062fc6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md"
+              }
             }
           }
         ]
@@ -142,6 +150,7 @@
   },
   "active": "af1f264ad062fc6e",
   "lastOpenFiles": [
+    "1ere/PAV/Couleur et texture/S1/corrupted 1er cours.md",
     "1ere/PAV/Couleur et texture/S1/1er cours.md",
     "1ere/PAV/Couleur et texture/S1/1ercours 2.0.md",
     "1ere/PAV/Couleur et texture/S1/1er cours Ce quil reste à faire.svg",
