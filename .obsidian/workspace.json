@@ -23,7 +23,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.md"
+                "file": "1ere/PAV/Couleur et texture/S2/Textures.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.md",
+                "file": "1ere/PAV/Couleur et texture/S2/Textures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.md",
+                "file": "1ere/PAV/Couleur et texture/S2/Textures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.md"
+                "file": "1ere/PAV/Couleur et texture/S2/Textures.md"
               }
             }
           }
@@ -167,10 +167,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b03a51dde84a32e9",
+  "active": "2ab586091752f069",
   "lastOpenFiles": [
+    "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.svg",
     "1ere/PAV/Couleur et texture/Final/texture_ac_list_1.2.excalidraw",
-    "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.md",
+    "1ere/PAV/Couleur et texture/S2/Textures.md",
     "1ere/PAV/Couleur et texture/Final/Final overview.md",
     "0 Tml/ETLV/Sneakers/Sneakers sequence.pdf",
     "1ere/PAV/Couleur et texture/Final",
