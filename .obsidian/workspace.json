@@ -18,14 +18,22 @@
             }
           },
           {
+            "id": "b03a51dde84a32e9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.md"
+              }
+            }
+          },
+          {
             "id": "2901e31992c49e7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.md",
-                "mode": "source",
-                "source": false
+                "file": "2nd/2nd overview.md"
               }
             }
           }
@@ -96,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.md",
+                "file": "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.md",
+                "file": "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.md"
+                "file": "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.md"
               }
             }
           }
@@ -159,10 +167,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2901e31992c49e7d",
+  "active": "b03a51dde84a32e9",
   "lastOpenFiles": [
-    "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.svg",
+    "1ere/PAV/Couleur et texture/Final/texture_ac_list_1.2.excalidraw",
+    "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.md",
+    "1ere/PAV/Couleur et texture/Final/Final overview.md",
+    "0 Tml/ETLV/Sneakers/Sneakers sequence.pdf",
+    "1ere/PAV/Couleur et texture/Final",
+    "2nd/2nd overview.md",
     "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.md",
+    "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.svg",
     "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion élève.svg",
     "1ere/PAV/Couleur et texture/S1/Fiche élève.md",
     "1ere/PAV/Couleur et texture/S1/S1 C&T.pdf",
@@ -175,7 +189,6 @@
     "Pasted Image 20240929190858_108.png",
     "Pasted Image 20240929185559_056.png",
     "1ere/PAV/Couleur et texture/S1/1er cours.md",
-    "0 Tml/ETLV/Sneakers/Sneakers sequence.pdf",
     "0 Tml/ETLV/Sneakers/sneakers s1 fiche.md",
     "0 Tml/ETLV/Sneakers/Sneakers S1 Déroulé détaillé.md",
     "0 Tml/ETLV/Sneakers/sneakers s1.svg",
@@ -194,17 +207,12 @@
     "Excalidraw/cropped_S1 idées_1.md",
     "Excalidraw/cropped_S1 idées_0.md",
     "Excalidraw/cropped_S1 idées.md",
-    "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.md",
     "1ere/PAV/Couleur et texture/S2",
     "1ere/PAV/Couleur et texture/S1/S1 C&T Liste des notions.pdf",
     "1ere/PAV/Couleur et texture/S1/S1 C&T Liste des notions.md",
     "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Péda.pdf",
     "1ere/PAV/Couleur et texture/S1/1er cours révisé par Gabriel.pdf",
     "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Péda.md",
-    "1ere/PAV/Couleur et texture/S1/1er cours révisé par Gabriel.md",
-    "1ere/PAV/Couleur et texture/S1",
-    "1ere/PAV/Couleur et texture/C&T Déroulé séquence.pdf",
-    "1ere/PAV/Couleur et texture/C&T Déroulé séquence.md",
-    "0 Tml/PAV/Eau et vent"
+    "1ere/PAV/Couleur et texture/S1"
   ]
 }
