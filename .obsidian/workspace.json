@@ -4,18 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "6b2fd2e646599700",
+        "id": "c78dfaae12899ed2",
         "type": "tabs",
         "children": [
           {
-            "id": "af1f264ad062fc6e",
+            "id": "ba85c7c025afb1fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md",
+                "file": "1ere/PAV/Couleur et texture/S2/Définition des structures et liste de textures.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "92482c8f5acb31f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4719550d37e76e21",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1ere/PAV/Couleur et texture/Final/texture_ac_list_1.2.excalidraw"
               }
             }
           }
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md",
+                "file": "1ere/PAV/Couleur et texture/S2/Définition des structures et liste de textures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md",
+                "file": "1ere/PAV/Couleur et texture/S2/Définition des structures et liste de textures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S1/1er cours.md"
+                "file": "1ere/PAV/Couleur et texture/S2/Définition des structures et liste de textures.md"
               }
             }
           }
@@ -148,53 +164,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af1f264ad062fc6e",
+  "active": "ba85c7c025afb1fa",
   "lastOpenFiles": [
-    "1ere/PAV/Couleur et texture/S1/corrupted 1er cours.md",
+    "1ere/PAV/Couleur et texture/S2/Définition des structures et liste de textures.pdf",
+    "1ere/PAV/Couleur et texture/Final/texture_ac_list_1.2.excalidraw",
+    "1ere/PAV/Couleur et texture/S2/Textures.md",
+    "1ere/PAV/Couleur et texture/S2/Définition des structures et liste de textures.md",
+    "1ere/PAV/Couleur et texture/S2/Critère d'éva.md",
+    "1ere/PAV/Couleur et texture/S2/Critère d'éva.pdf",
+    "1ere/PAV/Couleur et texture/S2/DIapo.md",
+    "1ere/PAV/Couleur et texture/S2/Diapo 7.svg",
+    "1ere/PAV/Couleur et texture/S2/Diapo 3&4.svg",
+    "1ere/PAV/Couleur et texture/S2/Diapo 5&6.svg",
+    "1ere/PAV/Couleur et texture/S2/Diapo 1&2.svg",
+    "1ere/PAV/Couleur et texture/S2/DIapo.pdf",
+    "1ere/PAV/Couleur et texture/S2/Textures fiche déroulé prof.pdf",
+    "1ere/PAV/Couleur et texture/S2/Textures fiche déroulé prof.md",
+    "1ere/PAV/Couleur et texture/S2/Diapo.svg",
+    "1ere/PAV/Couleur et texture/S2/Textures/photo-1520811288788-6f2e3da049e0 - Copie.png",
+    "1ere/PAV/Couleur et texture/S2/Textures/photo-1498612753354-772a30629934 - Copie.png",
+    "1ere/PAV/Couleur et texture/S2/Textures/photo-1527049979667-990f1d0d8e7f - Copie.png",
+    "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.svg",
+    "1ere/PAV/Couleur et texture/C&T Déroulé séquence.md",
+    "1ere/PAV/Couleur et texture/S2/Textures/photo-1498612753354-772a30629934.png",
+    "1ere/PAV/Couleur et texture/S2/Textures/photo-1527049979667-990f1d0d8e7f.avif.crdownload",
+    "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1673649934365-6bcbe97ffe77.avif.crdownload",
+    "1ere/PAV/Couleur et texture/S2/Textures/photo-1575722290270-626b0208df99.avif.crdownload",
+    "1ere/PAV/Couleur et texture/S2/Textures/photo-1520811288788-6f2e3da049e0.avif.crdownload",
+    "1ere/PAV/Couleur et texture/S2/Textures/photo-1498612753354-772a30629934.avif.crdownload",
+    "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1672944876342-4090164e1c04.avif.crdownload",
     "1ere/PAV/Couleur et texture/S1/1er cours.md",
+    "1ere/PAV/Couleur et texture/Final/Final overview.md",
+    "1ere/PAV/Couleur et texture/S1/corrupted 1er cours.md",
     "1ere/PAV/Couleur et texture/S1/1ercours 2.0.md",
-    "1ere/PAV/Couleur et texture/S1/1er cours Ce quil reste à faire.svg",
     "1ere/OLN/JV/S3 Illustrator/Fiche séance.md",
-    "Pasted Image 20240929190858_108.png",
-    "Pasted Image 20240929185559_056.png",
-    "Pasted Image 20240928115237_337.png",
-    "Pasted Image 20240928114803_909.png",
-    "Pasted Image 20240928113917_310.png",
-    "Pasted Image 20240928113321_359.png",
     "Excalidraw/cropped_cropped_Pasted Image 20240929190858_108.md",
     "Excalidraw/cropped_Pasted Image 20240929190858_108_0.md",
     "Excalidraw/cropped_Pasted Image 20240929190858_108.md",
-    "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.svg",
-    "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.pdf",
     "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.md",
     "1ere/PAV/Couleur et texture/S1/Fiche élève.md",
-    "1ere/PAV/Couleur et texture/S1/C&T S1 Fiche élève.svg",
-    "1ere/OLN/JV/S3 Illustrator/Fiche séance.svg",
     "1ere/OLN/JV/Séquence JV.md",
     "1ere/OLN/JV/JV Déroulé séquence.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
-    "1ere/OLN/JV/S3 Illustrator/S 3 C&T Déroulé.pdf",
-    "1ere/OLN/JV/S3 Illustrator/Fiche séance.pdf",
-    "1ere/PAV/Couleur et texture/C&T Déroulé séquence.md",
     "Excalidraw/cropped_Pasted Image 20241002002032_252.md",
     "1ere/OLN/OLN Overview.md",
     "1ere/OLN/JV/S1/JV S1 Critère d'évaluation.md",
     "1ere/OLN/JV/S1/JV S1 COURS.md",
     "1ere/OLN/JV/S1/JV S1.md",
-    "1ere/OLN/JV/S3 Illustrator/Drawing 2024-10-01 23.19.59.excalidraw.md",
-    "1ere/OLN/JV/S3 Illustrator/Déroulé S3 JV.md",
-    "1ere/OLN/JV/S3 Illustrator/Fiche technique.md",
-    "1ere/OLN/JV/S3 Illustrator/S 3 C&T Fiche technique.pdf",
-    "1ere/OLN/JV/S3 Illustrator",
-    "1ere/PAV/Couleur et texture/S1/1er cours révisé par Gabriel.md",
-    "1ere/PAV/Couleur et texture/S1/1er cours révisé par Gabriel.pdf",
-    "1ere/PAV/Couleur et texture/S2/S2 C&T oveview.md",
-    "1ere/PAV/Couleur et texture/S1/S1 C&T.pdf",
-    "1ere/PAV/Couleur et texture/S2",
-    "1ere/PAV/Couleur et texture/Couleur&Texture.md",
-    "1ere/PAV/Couleur et texture/S1/S1 C&T Liste des notions.md",
-    "Excalidraw/Scripts/Downloaded/Connect elements.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts"
+    "1ere/OLN/JV/S3 Illustrator/Drawing 2024-10-01 23.19.59.excalidraw.md"
   ]
 }
