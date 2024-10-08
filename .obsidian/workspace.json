@@ -23,9 +23,11 @@
             "id": "ba71926899628942",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1673649934365-6bcbe97ffe77.png"
+                "file": "1ere/PAV/Couleur et texture/S2/Diapositives.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1673649934365-6bcbe97ffe77.png",
+                "file": "1ere/PAV/Couleur et texture/S2/Diapositives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1673649934365-6bcbe97ffe77.png",
+                "file": "1ere/PAV/Couleur et texture/S2/Diapositives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1673649934365-6bcbe97ffe77.png"
+                "file": "1ere/PAV/Couleur et texture/S2/Diapositives.md"
               }
             }
           }
@@ -161,25 +163,30 @@
   },
   "active": "ba71926899628942",
   "lastOpenFiles": [
-    "1ere/PAV/Couleur et texture/S2/Textures/Sans titre-2.png",
+    "1ere/PAV/Couleur et texture/S2/Textures/ps1B04.tmp",
+    "1ere/PAV/Couleur et texture/S2/Textures/ps9B48.tmp",
+    "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1672896873553-7ec68031824f_1.png",
+    "1ere/PAV/Couleur et texture/S2/Textures/éponge.png",
+    "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1673502196346-c80a5bfb8ae1.png",
+    "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1673502196346-c80a5bfb8ae1.avif",
+    "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1673502196346-c80a5bfb8ae1.avif.crdownload",
+    "1ere/PAV/Couleur et texture/S2/Diapositives.pdf",
+    "1ere/PAV/Couleur et texture/S2/Diapos.md",
+    "1ere/PAV/Couleur et texture/S2/Diapos 8.svg",
+    "1ere/PAV/Couleur et texture/S2/Diapositives.md",
+    "1ere/PAV/Couleur et texture/S2/Diapos 1.svg",
+    "1ere/PAV/Couleur et texture/S2/Diapos 2.svg",
+    "1ere/PAV/Couleur et texture/S2/Diapos 3.svg",
+    "1ere/PAV/Couleur et texture/S2/Diapo.svg",
+    "1ere/PAV/Couleur et texture/S2/Diapos 7.svg",
+    "1ere/PAV/Couleur et texture/S2/DIapo.md",
     "1ere/PAV/Couleur et texture/S2/Textures/psE897.tmp",
-    "1ere/PAV/Couleur et texture/S2/Textures/éponge.avif",
     "1ere/PAV/Couleur et texture/S2/Textures/éponge.avif.crdownload",
     "1ere/PAV/Couleur et texture/S2/Textures/Sans titre-2.psd",
-    "1ere/PAV/Couleur et texture/S2/Textures/Pisselit.png",
-    "1ere/PAV/Couleur et texture/S2/Textures/Plastique-mouillé.png",
-    "1ere/PAV/Couleur et texture/S2/Textures/Pisselit.avif",
     "1ere/PAV/Couleur et texture/S2/Textures/Pisselit.avif.crdownload",
-    "1ere/PAV/Couleur et texture/S2/Textures/Plastique mouillé.avif",
     "1ere/PAV/Couleur et texture/S2/Textures/Plastique mouillé.avif.crdownload",
-    "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1672896873553-7ec68031824f.png",
-    "1ere/PAV/Couleur et texture/S2/Textures/Bois.avif",
     "1ere/PAV/Couleur et texture/S2/Textures/Bois.avif.crdownload",
-    "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1672896873553-7ec68031824f.avif",
     "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1672896873553-7ec68031824f.avif.crdownload",
-    "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1672944876342-4090164e1c04.png",
-    "1ere/PAV/Couleur et texture/S2/Textures/photo-1575722290270-626b0208df99.png",
-    "1ere/PAV/Couleur et texture/S2/Diapos.md",
     "Excalidraw/cropped_C&T slides S2_6.md",
     "Excalidraw/cropped_C&T slides S2_5.md",
     "Excalidraw/cropped_C&T slides S2.md",
@@ -188,14 +195,9 @@
     "Excalidraw/cropped_C&T slides S2_2.md",
     "Excalidraw/cropped_C&T slides S2_1.md",
     "Excalidraw/cropped_C&T slides S2_0.md",
-    "1ere/PAV/Couleur et texture/S2/Diapositives.md",
-    "1ere/PAV/Couleur et texture/S2/Diapositives.pdf",
-    "1ere/PAV/Couleur et texture/Final/texture_ac_list_1.2.excalidraw",
     "1ere/PAV/Couleur et texture/S2/Définition des structures et liste de textures.md",
-    "1ere/PAV/Couleur et texture/S2/Définition des structures et liste de textures.pdf",
     "1ere/PAV/Couleur et texture/S2/Textures.md",
     "1ere/PAV/Couleur et texture/S2/Critère d'éva.md",
-    "1ere/PAV/Couleur et texture/S2/DIapo.md",
     "1ere/PAV/Couleur et texture/S2/Textures fiche déroulé prof.md",
     "1ere/PAV/Couleur et texture/C&T Déroulé séquence.md",
     "1ere/PAV/Couleur et texture/S1/1er cours.md",
