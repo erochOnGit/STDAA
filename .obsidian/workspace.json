@@ -4,35 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "92482c8f5acb31f2",
+        "id": "59c757288dd81712",
         "type": "tabs",
         "children": [
           {
-            "id": "4719550d37e76e21",
+            "id": "a3b945a55654f6a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S2/Diapositives.md",
-                "mode": "source",
-                "source": false
+                "file": "1ere/OLN/JV/S5 Indesign/Indesign overview.md"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f241e1a1369f4f65",
+        "type": "tabs",
+        "children": [
           {
-            "id": "ba71926899628942",
+            "id": "bf5019d36ec71462",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S2/Diapositives.md",
+                "file": "1ere/OLN/JV/S5 Indesign/Fiche Séance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S2/Diapositives.md",
+                "file": "1ere/OLN/JV/S5 Indesign/Indesign overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S2/Diapositives.md",
+                "file": "1ere/OLN/JV/S5 Indesign/Indesign overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/S2/Diapositives.md"
+                "file": "1ere/OLN/JV/S5 Indesign/Indesign overview.md"
               }
             }
           }
@@ -161,32 +164,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba71926899628942",
+  "active": "a3b945a55654f6a5",
   "lastOpenFiles": [
+    "1ere/OLN/JV/S5 Indesign/Fiche Séance.md",
+    "1ere/OLN/JV/S5 Indesign/FIche Séance.svg",
+    "1ere/OLN/JV/S5 Indesign/Fiche séance.svg",
+    "1ere/OLN/JV/S5 Indesign/Indesign overview.md",
+    "1ere/OLN/JV/S5 Indesign/S5 Fiche technique élève.md",
+    "1ere/OLN/JV/S5 Indesign/S5 Fiche technique élève.pdf",
+    "1ere/OLN/JV/S5 Indesign/S5 Fiche Séance.pdf",
+    "1ere/OLN/JV/S5 Indesign/S5 Indesign Déroulé.md",
+    "1ere/OLN/JV/S5 Indesign/S5 Indesign Déroulé.pdf",
+    "1ere/OLN/JV/S5 Indesign/S InDesign Déroulé OUTDATED.md",
+    "1ere/OLN/JV/S5 Indesign/Indesign overview.excalidraw",
+    "1ere/PAV/Couleur et texture/S5",
+    "1ere/PAV/Couleur et texture/Nouveau dossier",
+    "Pasted Image 20241015234647_886.png",
+    "Pasted Image 20241015234547_842.png",
+    "Pasted Image 20241015234502_822.png",
+    "Pasted Image 20241015233010_638.png",
+    "Pasted Image 20241015232029_200.png",
+    "Pasted Image 20241015232014_176.png",
+    "1ere/OLN/JV/Séquence JV.md",
+    "1ere/OLN/JV/JV Déroulé séquence.md",
+    "Pasted Image 20241015220259_733.png",
+    "1ere/PAV/Couleur et texture/S2/Textures/Sans titre-2.png",
+    "1ere/OLN/JV/S5 Indesign",
+    "1ere/PAV/Couleur et texture/S2/Diapositives.md",
     "1ere/PAV/Couleur et texture/S2/Textures/ps1B04.tmp",
     "1ere/PAV/Couleur et texture/S2/Textures/ps9B48.tmp",
-    "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1672896873553-7ec68031824f_1.png",
-    "1ere/PAV/Couleur et texture/S2/Textures/éponge.png",
-    "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1673502196346-c80a5bfb8ae1.png",
-    "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1673502196346-c80a5bfb8ae1.avif",
     "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1673502196346-c80a5bfb8ae1.avif.crdownload",
-    "1ere/PAV/Couleur et texture/S2/Diapositives.pdf",
     "1ere/PAV/Couleur et texture/S2/Diapos.md",
-    "1ere/PAV/Couleur et texture/S2/Diapos 8.svg",
-    "1ere/PAV/Couleur et texture/S2/Diapositives.md",
-    "1ere/PAV/Couleur et texture/S2/Diapos 1.svg",
-    "1ere/PAV/Couleur et texture/S2/Diapos 2.svg",
-    "1ere/PAV/Couleur et texture/S2/Diapos 3.svg",
-    "1ere/PAV/Couleur et texture/S2/Diapo.svg",
-    "1ere/PAV/Couleur et texture/S2/Diapos 7.svg",
     "1ere/PAV/Couleur et texture/S2/DIapo.md",
-    "1ere/PAV/Couleur et texture/S2/Textures/psE897.tmp",
-    "1ere/PAV/Couleur et texture/S2/Textures/éponge.avif.crdownload",
-    "1ere/PAV/Couleur et texture/S2/Textures/Sans titre-2.psd",
-    "1ere/PAV/Couleur et texture/S2/Textures/Pisselit.avif.crdownload",
-    "1ere/PAV/Couleur et texture/S2/Textures/Plastique mouillé.avif.crdownload",
-    "1ere/PAV/Couleur et texture/S2/Textures/Bois.avif.crdownload",
-    "1ere/PAV/Couleur et texture/S2/Textures/premium_photo-1672896873553-7ec68031824f.avif.crdownload",
     "Excalidraw/cropped_C&T slides S2_6.md",
     "Excalidraw/cropped_C&T slides S2_5.md",
     "Excalidraw/cropped_C&T slides S2.md",
@@ -201,13 +210,6 @@
     "1ere/PAV/Couleur et texture/S2/Textures fiche déroulé prof.md",
     "1ere/PAV/Couleur et texture/C&T Déroulé séquence.md",
     "1ere/PAV/Couleur et texture/S1/1er cours.md",
-    "1ere/PAV/Couleur et texture/Final/Final overview.md",
-    "1ere/PAV/Couleur et texture/S1/corrupted 1er cours.md",
-    "1ere/PAV/Couleur et texture/S1/1ercours 2.0.md",
-    "1ere/OLN/JV/S3 Illustrator/Fiche séance.md",
-    "Excalidraw/cropped_cropped_Pasted Image 20240929190858_108.md",
-    "Excalidraw/cropped_Pasted Image 20240929190858_108_0.md",
-    "Excalidraw/cropped_Pasted Image 20240929190858_108.md",
-    "1ere/PAV/Couleur et texture/S1/S1 C&T Fiche Notion Élève.md"
+    "1ere/PAV/Couleur et texture/Final/Final overview.md"
   ]
 }
