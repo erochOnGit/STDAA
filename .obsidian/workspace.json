@@ -11,31 +11,30 @@
             "id": "a3b945a55654f6a5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1ere/OLN/JV/S5 Indesign/Indesign overview.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f241e1a1369f4f65",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bf5019d36ec71462",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "1ere/OLN/JV/S5 Indesign/Fiche Séance.md",
+                "file": "1ere/PAV/Couleur et texture/S5/Fiche professeur.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Fiche professeur"
+            }
+          },
+          {
+            "id": "39870b3cb28a4747",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1ere/PAV/Couleur et texture/S5/Sorties fiches.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Sorties fiches"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -70,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -78,14 +81,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 268.5
   },
   "right": {
     "id": "948ca0492e0d734e",
@@ -101,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1ere/OLN/JV/S5 Indesign/Indesign overview.md",
+                "file": "1ere/PAV/Couleur et texture/S5/Sorties fiches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sorties fiches"
             }
           },
           {
@@ -118,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1ere/OLN/JV/S5 Indesign/Indesign overview.md",
+                "file": "1ere/PAV/Couleur et texture/S5/Sorties fiches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sorties fiches"
             }
           },
           {
@@ -132,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -141,8 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1ere/OLN/JV/S5 Indesign/Indesign overview.md"
-              }
+                "file": "1ere/PAV/Couleur et texture/S5/Sorties fiches.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sorties fiches"
             }
           }
         ]
@@ -164,52 +177,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3b945a55654f6a5",
+  "active": "39870b3cb28a4747",
   "lastOpenFiles": [
-    "1ere/OLN/JV/S5 Indesign/Indesign overview.excalidraw",
-    "1ere/OLN/JV/S5 Indesign/Indesign overview.md",
-    "1ere/OLN/JV/S5 Indesign/Indesign overview (1).excalidraw",
-    "1ere/OLN/JV/S5 Indesign/Fiche Séance.md",
-    "1ere/OLN/JV/S5 Indesign/FIche Séance.svg",
-    "1ere/OLN/JV/S5 Indesign/Fiche séance.svg",
-    "1ere/OLN/JV/S5 Indesign/S5 Fiche technique élève.md",
-    "1ere/OLN/JV/S5 Indesign/S5 Fiche technique élève.pdf",
-    "1ere/OLN/JV/S5 Indesign/S5 Fiche Séance.pdf",
-    "1ere/OLN/JV/S5 Indesign/S5 Indesign Déroulé.md",
-    "1ere/OLN/JV/S5 Indesign/S5 Indesign Déroulé.pdf",
-    "1ere/OLN/JV/S5 Indesign/S InDesign Déroulé OUTDATED.md",
-    "1ere/PAV/Couleur et texture/S5",
-    "1ere/PAV/Couleur et texture/Nouveau dossier",
-    "Pasted Image 20241015234647_886.png",
-    "Pasted Image 20241015234547_842.png",
-    "Pasted Image 20241015234502_822.png",
-    "Pasted Image 20241015233010_638.png",
-    "Pasted Image 20241015232029_200.png",
-    "Pasted Image 20241015232014_176.png",
-    "1ere/OLN/JV/Séquence JV.md",
-    "1ere/OLN/JV/JV Déroulé séquence.md",
-    "Pasted Image 20241015220259_733.png",
-    "1ere/PAV/Couleur et texture/S2/Textures/Sans titre-2.png",
-    "1ere/OLN/JV/S5 Indesign",
-    "1ere/PAV/Couleur et texture/S2/Diapositives.md",
-    "1ere/PAV/Couleur et texture/S2/Textures/ps1B04.tmp",
-    "1ere/PAV/Couleur et texture/S2/Textures/ps9B48.tmp",
-    "1ere/PAV/Couleur et texture/S2/Diapos.md",
-    "1ere/PAV/Couleur et texture/S2/DIapo.md",
-    "Excalidraw/cropped_C&T slides S2_6.md",
-    "Excalidraw/cropped_C&T slides S2_5.md",
-    "Excalidraw/cropped_C&T slides S2.md",
-    "Excalidraw/cropped_C&T slides S2_4.md",
-    "Excalidraw/cropped_C&T slides S2_3.md",
-    "Excalidraw/cropped_C&T slides S2_2.md",
-    "Excalidraw/cropped_C&T slides S2_1.md",
-    "Excalidraw/cropped_C&T slides S2_0.md",
-    "1ere/PAV/Couleur et texture/S2/Définition des structures et liste de textures.md",
+    "1ere/PAV/Couleur et texture/S5/fiche dossier de presse 2-5.svg",
+    "1ere/PAV/Couleur et texture/S5/Fiche dossier de presse 14-17.svg",
+    "1ere/PAV/Couleur et texture/S5/Sorties fiches.md",
+    "1ere/PAV/Couleur et texture/S5/Fiche professeur.md",
+    "1ere/PAV/Couleur et texture/S5/Fiche dossier de presse 10-13.svg",
+    "1ere/PAV/Couleur et texture/S5/Fiche dossier de presse 6-9.svg",
+    "1ere/OLN/Carto Num/Carto Num overview.md",
+    "1ere/PAV/Couleur et texture/S5/Fiche dossier de presse.svg",
+    "Excalidraw/cropped_Pasted Image 20241031163949_284.md",
+    "Pasted Image 20241031163949_320.png",
+    "Pasted Image 20241031163949_284.png",
+    "Excalidraw/cropped_Pasted Image 20241031162915_475.md",
+    "Pasted Image 20241031162931_154.png",
+    "Pasted Image 20241031162915_509.png",
+    "Pasted Image 20241031162915_475.png",
+    "Excalidraw/cropped_Pasted Image 20241031161949_754.md",
+    "Excalidraw/cropped_Pasted Image 20241031162007_764.md",
+    "Excalidraw/cropped_Pasted Image 20241031152508_815.md",
+    "Excalidraw/cropped_Pasted Image 20241031152508_759.md",
+    "Excalidraw/cropped_Pasted Image 20241031145815_466.md",
+    "Excalidraw/cropped_Pasted Image 20241031145815_617.md",
+    "Excalidraw/cropped_Pasted Image 20241031145815_712.md",
+    "Excalidraw/cropped_Pasted Image 20241031145652_762.md",
+    "Excalidraw/cropped_cropped_Pasted Image 20241031145403_769.md",
+    "Excalidraw/cropped_Pasted Image 20241031145403_769.md",
+    "Excalidraw/cropped_Pasted Image 20241031144141_937.md",
     "1ere/PAV/Couleur et texture/S2/Textures.md",
     "1ere/PAV/Couleur et texture/S2/Critère d'éva.md",
-    "1ere/PAV/Couleur et texture/S2/Textures fiche déroulé prof.md",
+    "1ere/PAV/Couleur et texture/S5/S5 Sortie.md",
+    "1ere/PAV/Couleur et texture/C&T Déroulé séquence.pdf",
     "1ere/PAV/Couleur et texture/C&T Déroulé séquence.md",
-    "1ere/PAV/Couleur et texture/S1/1er cours.md",
-    "1ere/PAV/Couleur et texture/Final/Final overview.md"
+    "1ere/PAV/Couleur et texture/Couleur&Texture.md",
+    "1ere/PAV/Couleur et texture/S5/S5 Sortie.pdf",
+    "1ere/PAV/Couleur et texture/SFinal/Final overview.md",
+    "1ere/PAV/Couleur et texture/SFinal/SFinal Déroulé.md",
+    "1ere/PAV/Couleur et texture/SFinal/texture_ac_list_1.2.excalidraw",
+    "1ere/PAV/Couleur et texture/S2/Diapos.md",
+    "1ere/PAV/Couleur et texture/S2/Diapositives.pdf",
+    "1ere/PAV/Couleur et texture/S2/Définition des structures et liste de textures.pdf",
+    "1ere/PAV/Couleur et texture/S2/Définition des structures et liste de textures.md",
+    "1ere/PAV/spe643_annexe1_1063858.pdf",
+    "1ere/PAV/Initiation au dessin - Diapo.pdf",
+    "1ere/PAV/fiche perspective linéaire.pdf",
+    "1ere/PAV/Dessin didactique.pdf",
+    "1ere/OLN/JV/S5 Indesign/Indesign overview.excalidraw"
   ]
 }
