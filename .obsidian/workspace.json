@@ -11,16 +11,16 @@
             "id": "15658cb10d3cfa12",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "1ere/OLN/Première-STD2A-Programme-Outils-et-langages-numeriques_0.pdf"
+                "file": "1ere/OLN/Github for poet/GFP Overview.excalidraw"
               },
-              "icon": "lucide-file-text",
-              "title": "Première-STD2A-Programme-Outils-et-langages-numeriques_0"
+              "icon": "excalidraw-icon",
+              "title": "GFP Overview"
             }
           },
           {
-            "id": "489ad84b67007d35",
+            "id": "44cb017e8fcfc01f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -32,33 +32,30 @@
             }
           },
           {
-            "id": "201889acb9303bc1",
+            "id": "489ad84b67007d35",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "1ere/OLN/JV/S6 3D/Fiche séance S6 3D.md"
+                "file": "1ere/OLN/Première-STD2A-Programme-Outils-et-langages-numeriques_0.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "Fiche séance S6 3D"
+              "icon": "lucide-file-text",
+              "title": "Première-STD2A-Programme-Outils-et-langages-numeriques_0"
             }
           },
           {
             "id": "563938a222913072",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1ere/OLN/JV/S6 3D/S6 Fiche technique.md",
-                "mode": "source",
-                "source": false
+                "file": "sketching/sketching.md"
               },
-              "icon": "lucide-file",
-              "title": "S6 Fiche technique"
+              "icon": "excalidraw-icon",
+              "title": "sketching"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,39 +194,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "563938a222913072",
+  "active": "15658cb10d3cfa12",
   "lastOpenFiles": [
-    "1ere/OLN/JV/S6 3D/S6 Fiche technique.pdf",
-    "Pasted image 20241106013431.png",
-    "Pasted image 20241106013423.png",
-    "Pasted image 20241106013411.png",
-    "Pasted image 20241106013351.png",
+    "1ere/OLN/Github for poet/GFP Overview.md",
+    "1ere/OLN/Github for poet/GFP.md",
+    "1ere/OLN/OLN Overview.md",
+    "1ere/OLN/Github for poet/GFP Overview.excalidraw",
+    "1ere/OLN/Github for poet",
+    "1ere/OLN/Première-STD2A-Programme-Outils-et-langages-numeriques_0.pdf",
+    "sketching/sketching.md",
+    "1ere/OLN/OLN progression.svg",
+    "Pasted Image 20241107203000_649.png",
+    "Pasted Image 20241107203340_027.png",
+    "Pasted Image 20241107203000_848.png",
+    "Pasted Image 20241107203000_723.png",
+    "Pasted Image 20241107203000_700.png",
+    "Pasted Image 20241107203000_691.png",
+    "Pasted Image 20241107203000_680.png",
+    "Pasted Image 20241107203000_662.png",
+    "Pasted Image 20241107203000_606.png",
+    "Sans-titre-2024-10-16-1105.excalidraw",
     "1ere/OLN/JV/S6 3D/Fiche séance S6 3D.md",
+    "1ere/OLN/JV/S6 3D/S6 3D Déroulé.md",
+    "1ere/OLN/JV/S6 3D/S6 3D Déroulé.pdf",
+    "1ere/OLN/JV/S6 3D/déroulé.pdf",
     "1ere/OLN/JV/S6 3D/S6 Fiche technique.md",
-    "1ere/OLN/JV/S6 3D/Untitled.md",
+    "1ere/OLN/JV/S6 3D/S6 Fiche technique.pdf",
     "1ere/OLN/JV/S6 3D/Fiche Séance s6.md",
     "1ere/OLN/JV/S6 3D/Fiche Séance s6.pdf",
-    "1ere/OLN/JV/S6 3D/Fiche séance S6 3D.svg",
-    "1ere/OLN/JV/S6 3D/Drawing 2024-11-05 20.35.38.excalidraw.svg",
     "1ere/OLN/JV/S5 Indesign/S5 Fiche Séance.pdf",
-    "Pasted Image 20241106005559_928.png",
     "Excalidraw/cropped_cropped_Pasted Image 20241106000718_364.md",
-    "Pasted Image 20241106004258_928.png",
     "Excalidraw/cropped_Pasted Image 20241106000718_364.md",
-    "Pasted Image 20241106000718_364.png",
-    "1ere/OLN/Première-STD2A-Programme-Outils-et-langages-numeriques_0.pdf",
     "Excalidraw/cropped_Pasted Image 20241106003438_051.md",
-    "Pasted Image 20241106003438_051.png",
     "1ere/OLN/JV/S5 Indesign/Indesign overview.md",
     "1ere/OLN/JV/S5 Indesign/Indesign overview.excalidraw",
-    "1ere/OLN/OLN Overview.md",
     "sketching/README.md",
     "sketching/sketch timeline.md",
-    "sketching/sketching.md",
     "sketching/sketching 2.md",
-    "1ere/OLN/JV/S6 3D",
     "1ere/PAV/Couleur et texture/S5/Dossier de presse printable.md",
-    "1ere/PAV/Couleur et texture/S5/Dossier de presse printable.pdf",
     "1ere/PAV/Couleur et texture/S5/dossier de presse.md",
     "1ere/PAV/Couleur et texture/S5/S5 Sortie.md",
     "1ere/PAV/Couleur et texture/S5/Fiche professeur.md",
@@ -238,12 +240,6 @@
     "Excalidraw/cropped_Pasted Image 20241031162915_475.md",
     "Excalidraw/cropped_Pasted Image 20241031161949_754.md",
     "Excalidraw/cropped_Pasted Image 20241031162007_764.md",
-    "Excalidraw/cropped_Pasted Image 20241031152508_815.md",
-    "Excalidraw/cropped_Pasted Image 20241031152508_759.md",
-    "Excalidraw/cropped_Pasted Image 20241031145815_466.md",
-    "1ere/PAV/Couleur et texture/C&T Déroulé séquence.pdf",
-    "1ere/PAV/Couleur et texture/S5/S5 Sortie.pdf",
-    "1ere/PAV/Couleur et texture/SFinal/texture_ac_list_1.2.excalidraw",
-    "1ere/PAV/Couleur et texture/S2/Diapositives.pdf"
+    "Excalidraw/cropped_Pasted Image 20241031152508_815.md"
   ]
 }

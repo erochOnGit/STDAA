@@ -1,8 +1,0 @@
-# Séance 6 3D 
-
-
-Bravo, designers ! Votre jeu a été un véritable succès et a captivé des milliers de joueurs ! Deux ans après sa sortie, votre studio a décidé de développer une nouvelle ligne de produits dérivés pour satisfaire les fans les plus passionnés. Parmi les objets de collection les plus attendus, il y a des figurines des personnages principaux du jeu, incluant les animaux de compagnie emblématiques que vous avez créés. Ces figurines seront disponibles en édition limitée, alors le design doit être captivant et immédiatement reconnaissable pour les fans. Vous avez été chargés de créer un modèle prototypaire de la figurine de votre animal : une version en 3D qui servira de base pour la production. Utilisez Tinkercad pour réaliser ce modèle, en vous concentrant sur les formes, les détails caractéristiques de votre personnage et en veillant à ce que la figurine soit aussi fidèle que possible à l’esprit du jeu. À vous de jouer ! Faites en sorte que cette figurine soit un succès collector !
-
-"Bravo, designers ! Vous avez presque terminé la création de votre jeu autour des animaux de compagnie, et il ne reste plus qu’une étape essentielle : la cinématique de fin ! Imaginez ce moment où le joueur atteint la fin de son aventure : une scène finale s’ouvre, montrant un magnifique trophée, symbole de tous les efforts accomplis. Votre mission aujourd’hui est de concevoir en 3D le trophée final, une récompense unique qui sera fièrement affichée à la fin du jeu. Ce trophée doit capturer l’essence de votre animal et représenter un accomplissement pour le joueur. Utilisez les formes simples de Tinkercad pour donner vie à cette récompense finale. Que la créativité soit au rendez-vous pour clôturer en beauté l’expérience de votre jeu !"
-
-
