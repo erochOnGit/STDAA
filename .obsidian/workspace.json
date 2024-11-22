@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "c8c7a55096215e5d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "1ere/techno/Drawing 2024-11-21 16.46.26.excalidraw.png"
+              },
+              "icon": "lucide-image",
+              "title": "Drawing 2024-11-21 16.46.26.excalidraw"
+            }
+          },
+          {
             "id": "5d066ffad1abef09",
             "type": "leaf",
             "state": {
@@ -86,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,14 +237,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0efa32511a7d9bfd",
+  "active": "2ab586091752f069",
   "lastOpenFiles": [
+    "1ere/techno/Drawing 2024-11-21 16.46.26.excalidraw.md",
+    "1ere/techno/Drawing 2024-11-21 16.46.26.excalidraw.png",
+    "1ere/techno/Céramiques-capsule-vidéo.pdf",
+    "1ere/OLN/Github for poet/S2/Déroulé Séance.md",
+    "1ere/techno",
+    "1ere/OLN/Github for poet/S2/Déroulé Séance.pdf",
     "1ere/OLN/Github for poet/GFP Overview.excalidraw",
     "1ere/OLN/Première-STD2A-Programme-Outils-et-langages-numeriques_0.pdf",
     "1ere/OLN/Github for poet/Déroulé séquence.md",
     "1ere/OLN/Github for poet/S1/Branches.svg",
     "1ere/OLN/Github for poet/S1/Déroulé.md",
-    "1ere/OLN/Github for poet/S2/Déroulé Séance.md",
     "1ere/OLN/OLN progression.svg",
     "1ere/OLN/Github for poet/S2",
     "1ere/OLN/Github for poet/S1/Introduction.svg",
@@ -247,15 +264,11 @@
     "1ere/OLN/Github for poet/S1/Préambule.svg",
     "1ere/PAV/Couleur et texture/SFinal/C&T Sujet P1.md",
     "1ere/PAV/Couleur et texture/SFinal/texture_ac_list_1.2.excalidraw",
-    "1ere/PAV/Couleur et texture/SFinal/texture_ac_list_1.2.svg",
     "1ere/PAV/Couleur et texture/SFinal/Final overview.md",
     "1ere/PAV/Couleur et texture/SFinal/Final overview.excalidraw",
     "1ere/PAV/Couleur et texture/S1/Fiche élève.md",
     "sketching/sketching.md",
-    "1ere/PAV/Couleur et texture/SFinal/C&T Sujet.pdf",
     "1ere/PAV/Couleur et texture/SFinal/C&T Sujet P2.md",
-    "1ere/PAV/Couleur et texture/SFinal/C&T Sujet P2.pdf",
-    "1ere/PAV/Couleur et texture/SFinal/C&T Sujet P1.pdf",
     "1ere/PAV/Couleur et texture/S1/1er cours révisé par Gabriel.md",
     "1ere/OLN/OLN Overview.md",
     "1ere/PAV/Couleur et texture/SFinal/SFinal Déroulé.md",
@@ -270,7 +283,6 @@
     "Excalidraw/cropped_Pasted Image 20241106003438_051.md",
     "1ere/OLN/JV/S5 Indesign/Indesign overview.md",
     "sketching/README.md",
-    "sketching/sketch timeline.md",
-    "sketching/sketching 2.md"
+    "sketching/sketch timeline.md"
   ]
 }
