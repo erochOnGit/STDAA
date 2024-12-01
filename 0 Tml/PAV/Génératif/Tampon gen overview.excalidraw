@@ -1,0 +1,109 @@
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.3.0",
+	"elements": [
+		{
+			"id": "ZKfM-9_tmkRUQb7vig_Pe",
+			"type": "freedraw",
+			"x": -122.25,
+			"y": -216.25,
+			"width": 76,
+			"height": 84,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "a0",
+			"roundness": null,
+			"seed": 2103412355,
+			"version": 9,
+			"versionNonce": 1454606307,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1733081098767,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					4,
+					6
+				],
+				[
+					31,
+					35
+				],
+				[
+					49,
+					53
+				],
+				[
+					68,
+					75
+				],
+				[
+					76,
+					84
+				],
+				[
+					76,
+					84
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				76,
+				84
+			]
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 5,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 330.75,
+		"scrollY": 480.75,
+		"zoom": {
+			"value": 1
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"gridColor": {
+			"Bold": "#C9C9C9",
+			"Regular": "#EDEDED"
+		},
+		"currentStrokeOptions": null,
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		},
+		"objectsSnapModeEnabled": false
+	},
+	"prevTextMode": "parsed",
+	"files": {}
+}

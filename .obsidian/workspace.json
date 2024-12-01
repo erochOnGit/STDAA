@@ -49,12 +49,36 @@
             "id": "c8c7a55096215e5d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "1ere/techno/Drawing 2024-11-21 16.46.26.excalidraw.png"
+                "file": "1ere/OLN/Github for poet/S3 Excalidraw/S3 Overview.excalidraw"
               },
-              "icon": "lucide-image",
-              "title": "Drawing 2024-11-21 16.46.26.excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "S3 Overview"
+            }
+          },
+          {
+            "id": "a14625887c284c4f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1ere/OLN/Statue Retouchée/Drawing 2024-12-01 15.11.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-01 15.11.28.excalidraw"
+            }
+          },
+          {
+            "id": "d1fd8a7078c84250",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1ere/OLN/Statue Retouchée/Statue overview.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Statue overview"
             }
           },
           {
@@ -98,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -237,35 +261,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ab586091752f069",
+  "active": "d1fd8a7078c84250",
   "lastOpenFiles": [
-    "1ere/techno/Drawing 2024-11-21 16.46.26.excalidraw.md",
+    "1ere/OLN/Statue Retouchée/Drawing 2024-12-01 15.11.28.excalidraw.md",
+    "1ere/OLN/Statue Retouchée/Statue overview.excalidraw",
+    "0 Tml/PAV/Génératif/Drawing 2024-12-01 20.24.55.excalidraw.svg",
+    "0 Tml/PAV/Génératif/Drawing 2024-12-01 20.24.55.excalidraw.md",
+    "Pasted Image 20241201204309_540.png",
+    "1ere/OLN/Github for poet/S1/Déroulé.md",
+    "0 Tml/PAV/Génératif/Tampon gen overview.excalidraw",
+    "0 Tml/PAV/Génératif",
+    "1ere/OLN/Github for poet/S3 Excalidraw/S3 Overview.excalidraw",
+    "1ere/OLN/dossier-affinity.pdf",
+    "1ere/OLN/Statue Retouchée/Cours ATC/2__L’ART GREC (corpus textuel) (1).pdf",
+    "1ere/OLN/Statue Retouchée/Cours ATC/2__L’ART GREC (corpus visuel) (1).pdf",
+    "1ere/OLN/Statue Retouchée/Cours ATC/Article art grec Architecture (1).pdf",
+    "1ere/OLN/Statue Retouchée/Cours ATC/2__L'ART GREC (analyse comparée) (1) (2).pdf",
+    "1ere/OLN/Statue Retouchée/Cours ATC/2024_11_BP_novembre (1).pdf",
+    "1ere/OLN/Github for poet/S3 Excalidraw/S3 Overview.svg",
+    "1ere/OLN/Github for poet/S3 Excalidraw/déroulé.md",
+    "1ere/OLN/Github for poet/S3 Excalidraw/Drawing 2024-11-26 19.51.18.excalidraw.md",
+    "1ere/OLN/Github for poet/S3 Excalidraw/S3 overview.excalidraw.md",
+    "1ere/OLN/Github for poet/Untitled.md",
     "1ere/techno/Drawing 2024-11-21 16.46.26.excalidraw.png",
-    "1ere/techno/Céramiques-capsule-vidéo.pdf",
+    "1ere/techno/Drawing 2024-11-21 16.46.26.excalidraw.md",
     "1ere/OLN/Github for poet/S2/Déroulé Séance.md",
-    "1ere/techno",
-    "1ere/OLN/Github for poet/S2/Déroulé Séance.pdf",
-    "1ere/OLN/Github for poet/GFP Overview.excalidraw",
-    "1ere/OLN/Première-STD2A-Programme-Outils-et-langages-numeriques_0.pdf",
     "1ere/OLN/Github for poet/Déroulé séquence.md",
     "1ere/OLN/Github for poet/S1/Branches.svg",
-    "1ere/OLN/Github for poet/S1/Déroulé.md",
     "1ere/OLN/OLN progression.svg",
-    "1ere/OLN/Github for poet/S2",
     "1ere/OLN/Github for poet/S1/Introduction.svg",
     "1ere/OLN/Github for poet/S1/Commit.svg",
-    "1ere/OLN/Github for poet/S1/Déroulé.pdf",
-    "1ere/OLN/Github for poet/S1",
     "1ere/OLN/Github for poet/GFP Overview.md",
     "1ere/OLN/Github for poet/S1/Démarage du projet.svg",
     "1ere/OLN/Github for poet/S1/Titre.svg",
-    "1ere/OLN/Github for poet/S1/Conclusion.svg",
-    "1ere/OLN/Github for poet/S1/Travail de groupe.svg",
-    "1ere/OLN/Github for poet/S1/Préambule.svg",
     "1ere/PAV/Couleur et texture/SFinal/C&T Sujet P1.md",
-    "1ere/PAV/Couleur et texture/SFinal/texture_ac_list_1.2.excalidraw",
     "1ere/PAV/Couleur et texture/SFinal/Final overview.md",
-    "1ere/PAV/Couleur et texture/SFinal/Final overview.excalidraw",
     "1ere/PAV/Couleur et texture/S1/Fiche élève.md",
     "sketching/sketching.md",
     "1ere/PAV/Couleur et texture/SFinal/C&T Sujet P2.md",
@@ -277,12 +307,6 @@
     "1ere/OLN/JV/S6 3D/Fiche séance S6 3D.md",
     "1ere/OLN/JV/S6 3D/S6 3D Déroulé.md",
     "1ere/OLN/JV/S6 3D/S6 Fiche technique.md",
-    "1ere/OLN/JV/S6 3D/Fiche Séance s6.md",
-    "Excalidraw/cropped_cropped_Pasted Image 20241106000718_364.md",
-    "Excalidraw/cropped_Pasted Image 20241106000718_364.md",
-    "Excalidraw/cropped_Pasted Image 20241106003438_051.md",
-    "1ere/OLN/JV/S5 Indesign/Indesign overview.md",
-    "sketching/README.md",
-    "sketching/sketch timeline.md"
+    "1ere/OLN/JV/S6 3D/Fiche Séance s6.md"
   ]
 }
