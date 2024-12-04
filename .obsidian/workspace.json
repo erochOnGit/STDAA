@@ -63,34 +63,24 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "1ere/OLN/Statue Retouchée/Drawing 2024-12-01 15.11.28.excalidraw.md"
+                "file": "1ere/OLN/Statue Retouchée/Statue overview.excalidraw"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-01 15.11.28.excalidraw"
-            }
-          },
-          {
-            "id": "d1fd8a7078c84250",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "1ere/PAV/Couleur et texture/SFinal/C&T Sujet.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "C&T Sujet"
+              "title": "Statue overview"
             }
           },
           {
             "id": "8630e9a4a11e12dd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "1ere/PAV/Couleur et texture/SFinal/Fiche intention.excalidraw.png"
+                "file": "1ere/OLN/Statue Retouchée/Déroulé statue.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Fiche intention.excalidraw"
+              "icon": "lucide-file",
+              "title": "Déroulé statue"
             }
           },
           {
@@ -134,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -273,15 +263,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8630e9a4a11e12dd",
+  "active": "a14625887c284c4f",
   "lastOpenFiles": [
+    "1ere/OLN/Statue Retouchée/Statue overview.svg",
+    "1ere/OLN/Statue Retouchée/Drawing 2024-12-01 15.11.28.excalidraw.md",
+    "1ere/PAV/Couleur et texture/SFinal/C&T Sujet.pdf",
+    "1ere/OLN/Statue Retouchée/Déroulé statue.md",
+    "1ere/OLN/Statue Retouchée/Statue overview.excalidraw",
+    "1ere/OLN/Carto Num/Carto Num overview.md",
+    "1ere/OLN/Carto Num/Fiche Miro.md",
+    "1ere/OLN/Carto Num/Fiche carto numérique.md",
+    "1ere/OLN/Github for poet/GFP Overview.excalidraw",
+    "1ere/PAV/Couleur et texture/SFinal/Fiche intention.excalidraw.png",
     "1ere/PAV/Couleur et texture/SFinal/Fiche intention.excalidraw",
     "1ere/PAV/Couleur et texture/SFinal/Fiche intention.excalidraw.svg",
     "1ere/PAV/Couleur et texture/SFinal/Drawing 2024-12-02 23.21.30.excalidraw.md",
-    "1ere/PAV/Couleur et texture/SFinal/Fiche intention.excalidraw.png",
-    "1ere/PAV/Couleur et texture/SFinal/C&T Sujet.pdf",
-    "1ere/OLN/Statue Retouchée/Statue overview.excalidraw",
-    "1ere/OLN/Statue Retouchée/Drawing 2024-12-01 15.11.28.excalidraw.md",
     "0 Tml/PAV/Génératif/Drawing 2024-12-01 20.24.55.excalidraw.svg",
     "0 Tml/PAV/Génératif/Drawing 2024-12-01 20.24.55.excalidraw.md",
     "Pasted Image 20241201204309_540.png",
@@ -292,7 +288,6 @@
     "1ere/OLN/dossier-affinity.pdf",
     "1ere/OLN/Statue Retouchée/Cours ATC/2__L’ART GREC (corpus textuel) (1).pdf",
     "1ere/OLN/Statue Retouchée/Cours ATC/2__L’ART GREC (corpus visuel) (1).pdf",
-    "1ere/OLN/Statue Retouchée/Cours ATC/Article art grec Architecture (1).pdf",
     "1ere/OLN/Github for poet/S3 Excalidraw/S3 Overview.svg",
     "1ere/OLN/Github for poet/S3 Excalidraw/déroulé.md",
     "1ere/OLN/Github for poet/S3 Excalidraw/Drawing 2024-11-26 19.51.18.excalidraw.md",
@@ -315,10 +310,6 @@
     "1ere/PAV/Couleur et texture/S1/1er cours révisé par Gabriel.md",
     "1ere/OLN/OLN Overview.md",
     "1ere/PAV/Couleur et texture/SFinal/SFinal Déroulé.md",
-    "1ere/PAV/Couleur et texture/S5/dossier de presse.md",
-    "1ere/OLN/Github for poet/GFP.md",
-    "1ere/OLN/JV/S6 3D/Fiche séance S6 3D.md",
-    "1ere/OLN/JV/S6 3D/S6 3D Déroulé.md",
-    "1ere/OLN/JV/S6 3D/S6 Fiche technique.md"
+    "1ere/PAV/Couleur et texture/S5/dossier de presse.md"
   ]
 }
