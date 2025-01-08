@@ -7,9 +7,8 @@
 #### **Phase 1 : Introduction (10 min)**
 
 - **Pitch de départ** :  
-    L’enseignant introduit le cadre de l’Escape Game :
-    
-    > « Vous êtes des designers travaillant pour une société de fabrication de meubles sur mesure. Une nouvelle technique d’usinage permet de cintrer du bois en utilisant la découpe laser et la méthode du rainurage. Votre mission : produire un tutoriel clair et visuel pour expliquer à vos collègues comment préparer un fichier pour la découpe laser. Ce tutoriel permettra de résoudre une énigme clé dans l’Escape Game. »
+    Usinage en numérique : 
+    Le FabLab du lycée souhaite constituer une bibliothèque de tutoriels pour aider les élèves à maîtriser les outils numériques de fabrication, notamment la découpe laser. Vous avez été choisis pour réaliser un tutoriel qui explique comment créer un motif destiné au cintrage par découpe laser, en utilisant Adobe Illustrator. Ce tutoriel devra être clair, visuel et facile à comprendre, afin d’être utilisé par d’autres élèves du lycée.
     
 - Présentation des **objectifs pédagogiques** :
     
@@ -33,10 +32,9 @@
 	    5. Treillis de ruche/ beehive Lattice
 	    6.  Treillis de Bastian/ Bastian Lattice
 
-       
 - Travail en autonomie :
     
-    - **Questions à traiter** :
+    - **Questions à traiter** : https://fablab-neuch.ch/storage/docs/D%C3%A9coupe-laser.pdf
         1. Quels sont les intérêts du motif attribué ?
             - Est-il flexible ?
             - A-t-il un sens de torsion particulier ?

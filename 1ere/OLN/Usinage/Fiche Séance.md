@@ -1,0 +1,1 @@
+![[1ere/OLN/Usinage/Fiche séance.svg]]
