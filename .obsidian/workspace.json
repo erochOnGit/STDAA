@@ -20,15 +20,17 @@
             }
           },
           {
-            "id": "15658cb10d3cfa12",
+            "id": "c8c7a55096215e5d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "1ere/OLN/Github for poet/GFP Overview.excalidraw"
+                "file": "1ere/OLN/Usinage/Déroulé Séquence.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "GFP Overview"
+              "icon": "lucide-file",
+              "title": "Déroulé Séquence"
             }
           },
           {
@@ -46,30 +48,6 @@
             }
           },
           {
-            "id": "c8c7a55096215e5d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1ere/OLN/Github for poet/S3 Excalidraw/S3 Overview.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "S3 Overview"
-            }
-          },
-          {
-            "id": "a14625887c284c4f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1ere/OLN/Statue Retouchée/Statue overview.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Statue overview"
-            }
-          },
-          {
             "id": "8630e9a4a11e12dd",
             "type": "leaf",
             "state": {
@@ -82,49 +60,27 @@
               "icon": "lucide-file",
               "title": "Déroulé statue"
             }
-          },
-          {
-            "id": "5d066ffad1abef09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1ere/OLN/Github for poet/S1/Déroulé.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Déroulé"
-            }
-          },
-          {
-            "id": "6f81077a9c6e79ca",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "1ere/OLN/Github for poet/S1/Branches.svg"
-              },
-              "icon": "lucide-image",
-              "title": "Branches"
-            }
-          },
-          {
-            "id": "1e7aac547446e312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1ere/OLN/Github for poet/Déroulé séquence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Déroulé séquence"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
+      },
+      {
+        "id": "0758641f7abd094b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af99a2daa6af97b3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1ere/OLN/Usinage/overview usinage numérique.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "overview usinage numérique"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,53 +219,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a14625887c284c4f",
+  "active": "c8c7a55096215e5d",
   "lastOpenFiles": [
-    "1ere/OLN/Statue Retouchée/Statue overview.svg",
-    "1ere/OLN/Statue Retouchée/Drawing 2024-12-01 15.11.28.excalidraw.md",
-    "1ere/PAV/Couleur et texture/SFinal/C&T Sujet.pdf",
+    "1ere/OLN/Usinage/Déroulé Séquence.pdf",
+    "1ere/OLN/Usinage/resultat.ai",
+    "1ere/OLN/Usinage/A9Rcktwm2_1uds6vh_bng.tmp",
+    "1ere/OLN/Usinage/~ai-ee10352e-e8b7-4174-a72c-1092feb0ea09_.tmp",
+    "1ere/OLN/Usinage/A9R1xnid1u_mxd6hn_br8.tmp",
+    "1ere/OLN/Usinage/fichier de découpe.ai",
+    "1ere/OLN/Usinage/A9R5xmi2v_1uds6ve_bng.tmp",
+    "1ere/OLN/Usinage/~ai-d7dacd21-0152-4524-879f-ca67334462f5_.tmp",
+    "1ere/OLN/Usinage/A9R1ntzke7_mxd6gk_br8.tmp",
+    "1ere/OLN/Usinage/overview usinage numérique.md",
+    "1ere/OLN/Usinage/Déroulé Séquence.md",
+    "1ere/OLN/Github for poet/S2/Déroulé Séance.md",
+    "Pasted Image 20250107234225_294.png",
+    "Pasted Image 20250107223348_995.png",
+    "1ere/OLN/Première-STD2A-Programme-Outils-et-langages-numeriques_0.pdf",
     "1ere/OLN/Statue Retouchée/Déroulé statue.md",
-    "1ere/OLN/Statue Retouchée/Statue overview.excalidraw",
+    "1ere/OLN/Github for poet/GFP Overview.excalidraw",
+    "1ere/OLN/Github for poet/Déroulé séquence.md",
+    "1ere/OLN/Github for poet/S1/Branches.svg",
+    "1ere/OLN/Github for poet/S1/Déroulé.md",
+    "Pasted Image 20250107222248_847.png",
+    "1ere/OLN/Statue Retouchée/Untitled.md",
+    "1ere/OLN/Statue Retouchée/Statue.svg",
+    "1ere/OLN/Statue Retouchée/Drawing 2024-12-01 15.11.28.excalidraw.md",
     "1ere/OLN/Carto Num/Carto Num overview.md",
     "1ere/OLN/Carto Num/Fiche Miro.md",
     "1ere/OLN/Carto Num/Fiche carto numérique.md",
-    "1ere/OLN/Github for poet/GFP Overview.excalidraw",
     "1ere/PAV/Couleur et texture/SFinal/Fiche intention.excalidraw.png",
-    "1ere/PAV/Couleur et texture/SFinal/Fiche intention.excalidraw",
     "1ere/PAV/Couleur et texture/SFinal/Fiche intention.excalidraw.svg",
     "1ere/PAV/Couleur et texture/SFinal/Drawing 2024-12-02 23.21.30.excalidraw.md",
     "0 Tml/PAV/Génératif/Drawing 2024-12-01 20.24.55.excalidraw.svg",
     "0 Tml/PAV/Génératif/Drawing 2024-12-01 20.24.55.excalidraw.md",
     "Pasted Image 20241201204309_540.png",
-    "1ere/OLN/Github for poet/S1/Déroulé.md",
-    "0 Tml/PAV/Génératif/Tampon gen overview.excalidraw",
-    "0 Tml/PAV/Génératif",
-    "1ere/OLN/Github for poet/S3 Excalidraw/S3 Overview.excalidraw",
-    "1ere/OLN/dossier-affinity.pdf",
-    "1ere/OLN/Statue Retouchée/Cours ATC/2__L’ART GREC (corpus textuel) (1).pdf",
-    "1ere/OLN/Statue Retouchée/Cours ATC/2__L’ART GREC (corpus visuel) (1).pdf",
     "1ere/OLN/Github for poet/S3 Excalidraw/S3 Overview.svg",
     "1ere/OLN/Github for poet/S3 Excalidraw/déroulé.md",
     "1ere/OLN/Github for poet/S3 Excalidraw/Drawing 2024-11-26 19.51.18.excalidraw.md",
     "1ere/OLN/Github for poet/S3 Excalidraw/S3 overview.excalidraw.md",
     "1ere/OLN/Github for poet/Untitled.md",
-    "1ere/techno/Drawing 2024-11-21 16.46.26.excalidraw.png",
     "1ere/techno/Drawing 2024-11-21 16.46.26.excalidraw.md",
-    "1ere/OLN/Github for poet/S2/Déroulé Séance.md",
-    "1ere/OLN/Github for poet/Déroulé séquence.md",
-    "1ere/OLN/Github for poet/S1/Branches.svg",
-    "1ere/OLN/OLN progression.svg",
-    "1ere/OLN/Github for poet/S1/Introduction.svg",
-    "1ere/OLN/Github for poet/S1/Commit.svg",
     "1ere/OLN/Github for poet/GFP Overview.md",
     "1ere/PAV/Couleur et texture/SFinal/C&T Sujet P1.md",
     "1ere/PAV/Couleur et texture/SFinal/Final overview.md",
     "1ere/PAV/Couleur et texture/S1/Fiche élève.md",
     "sketching/sketching.md",
     "1ere/PAV/Couleur et texture/SFinal/C&T Sujet P2.md",
-    "1ere/PAV/Couleur et texture/S1/1er cours révisé par Gabriel.md",
-    "1ere/OLN/OLN Overview.md",
-    "1ere/PAV/Couleur et texture/SFinal/SFinal Déroulé.md",
-    "1ere/PAV/Couleur et texture/S5/dossier de presse.md"
+    "1ere/PAV/Couleur et texture/S1/1er cours révisé par Gabriel.md"
   ]
 }
